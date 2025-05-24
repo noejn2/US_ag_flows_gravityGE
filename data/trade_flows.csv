@@ -1,0 +1,2305 @@
+orig,dest,flow
+Alabama,Alabama,946.44822
+Alabama,Arizona,7.233960000000001
+Alabama,Arkansas,69.10042000000001
+Alabama,California,109.20002
+Alabama,Colorado,7.195180000000001
+Alabama,Connecticut,17.04088
+Alabama,Delaware,6.89906
+Alabama,Florida,82.96056
+Alabama,Georgia,159.2685
+Alabama,Idaho,0.0013599999999999999
+Alabama,Illinois,83.51996
+Alabama,Indiana,8.57466
+Alabama,Iowa,11.09164
+Alabama,Kansas,5.14182
+Alabama,Kentucky,14.70214
+Alabama,Louisiana,21.15186
+Alabama,Maine,11.121179999999999
+Alabama,Maryland,25.00918
+Alabama,Massachusetts,1.15916
+Alabama,Michigan,7.99486
+Alabama,Minnesota,4.3368400000000005
+Alabama,Mississippi,97.62832
+Alabama,Missouri,15.402379999999999
+Alabama,Montana,0
+Alabama,Nebraska,1.2925200000000001
+Alabama,Nevada,0
+Alabama,New Hampshire,0
+Alabama,New Jersey,22.26182
+Alabama,New Mexico,0.39156
+Alabama,New York,3.94414
+Alabama,North Carolina,49.947199999999995
+Alabama,North Dakota,0
+Alabama,Ohio,47.95992
+Alabama,Oklahoma,3.4331400000000003
+Alabama,Oregon,1.0337999999999998
+Alabama,Pennsylvania,26.19652
+Alabama,Rhode Island,0
+Alabama,South Carolina,20.2647
+Alabama,South Dakota,0
+Alabama,Tennessee,33.897400000000005
+Alabama,Texas,146.9526
+Alabama,Utah,6.731399999999999
+Alabama,Vermont,0
+Alabama,Virginia,25.39034
+Alabama,Washington,0
+Alabama,West Virginia,2.7159199999999997
+Alabama,Wisconsin,13.65924
+Alabama,Wyoming,0
+Arizona,Alabama,0
+Arizona,Arizona,783.0617399999999
+Arizona,Arkansas,1.15388
+Arizona,California,407.29676
+Arizona,Colorado,45.5004
+Arizona,Connecticut,0
+Arizona,Delaware,0
+Arizona,Florida,13.32662
+Arizona,Georgia,11.01108
+Arizona,Idaho,0.39805999999999997
+Arizona,Illinois,22.66132
+Arizona,Indiana,0.05364
+Arizona,Iowa,0
+Arizona,Kansas,5.45786
+Arizona,Kentucky,1.43726
+Arizona,Louisiana,0.20882
+Arizona,Maine,0.47866
+Arizona,Maryland,0.66094
+Arizona,Massachusetts,0.76418
+Arizona,Michigan,4.3803
+Arizona,Minnesota,0.86746
+Arizona,Mississippi,0
+Arizona,Missouri,1.56054
+Arizona,Montana,0.20548000000000002
+Arizona,Nebraska,0.061880000000000004
+Arizona,Nevada,22.23098
+Arizona,New Hampshire,0
+Arizona,New Jersey,5.01684
+Arizona,New Mexico,16.5327
+Arizona,New York,5.0864199999999995
+Arizona,North Carolina,1.52664
+Arizona,North Dakota,0
+Arizona,Ohio,0.65206
+Arizona,Oklahoma,6.48326
+Arizona,Oregon,6.4689000000000005
+Arizona,Pennsylvania,0
+Arizona,Rhode Island,0
+Arizona,South Carolina,0
+Arizona,South Dakota,5.49636
+Arizona,Tennessee,0
+Arizona,Texas,78.06324
+Arizona,Utah,3.35554
+Arizona,Vermont,0
+Arizona,Virginia,0
+Arizona,Washington,1.5279399999999999
+Arizona,West Virginia,0.00796
+Arizona,Wisconsin,12.552420000000001
+Arizona,Wyoming,0
+Arkansas,Alabama,29.47358
+Arkansas,Arizona,52.348760000000006
+Arkansas,Arkansas,3947.32478
+Arkansas,California,107.1192
+Arkansas,Colorado,22.498060000000002
+Arkansas,Connecticut,1.1755
+Arkansas,Delaware,0
+Arkansas,Florida,48.223200000000006
+Arkansas,Georgia,46.35170000000001
+Arkansas,Idaho,0
+Arkansas,Illinois,35.204480000000004
+Arkansas,Indiana,20.954140000000002
+Arkansas,Iowa,27.29724
+Arkansas,Kansas,60.134159999999994
+Arkansas,Kentucky,34.079539999999994
+Arkansas,Louisiana,67.89972
+Arkansas,Maine,12.60864
+Arkansas,Maryland,5.16614
+Arkansas,Massachusetts,25.85804
+Arkansas,Michigan,3.71884
+Arkansas,Minnesota,34.531
+Arkansas,Mississippi,81.83144
+Arkansas,Missouri,236.90024
+Arkansas,Montana,0
+Arkansas,Nebraska,17.653280000000002
+Arkansas,Nevada,1.5605600000000002
+Arkansas,New Hampshire,0
+Arkansas,New Jersey,18.28874
+Arkansas,New Mexico,4.74028
+Arkansas,New York,54.507799999999996
+Arkansas,North Carolina,14.149780000000002
+Arkansas,North Dakota,0.14412
+Arkansas,Ohio,35.10442
+Arkansas,Oklahoma,139.46858
+Arkansas,Oregon,19.475720000000003
+Arkansas,Pennsylvania,82.4596
+Arkansas,Rhode Island,0
+Arkansas,South Carolina,0.44882
+Arkansas,South Dakota,0
+Arkansas,Tennessee,35.095299999999995
+Arkansas,Texas,296.70578
+Arkansas,Utah,19.94648
+Arkansas,Vermont,0
+Arkansas,Virginia,19.95434
+Arkansas,Washington,9.56554
+Arkansas,West Virginia,0
+Arkansas,Wisconsin,14.988579999999999
+Arkansas,Wyoming,0
+California,Alabama,46.36618
+California,Arizona,291.81188
+California,Arkansas,18.84084
+California,California,12817.11952
+California,Colorado,87.74562
+California,Connecticut,6.30242
+California,Delaware,0.27298
+California,Florida,165.32328
+California,Georgia,80.39972
+California,Idaho,49.15226
+California,Illinois,228.03226
+California,Indiana,35.180279999999996
+California,Iowa,22.101819999999996
+California,Kansas,15.9586
+California,Kentucky,25.574040000000004
+California,Louisiana,8.15766
+California,Maine,2.0804400000000003
+California,Maryland,55.002919999999996
+California,Massachusetts,47.42746
+California,Michigan,67.515
+California,Minnesota,42.579100000000004
+California,Mississippi,12.16682
+California,Missouri,33.8889
+California,Montana,5.93376
+California,Nebraska,18.219360000000002
+California,Nevada,342.31275999999997
+California,New Hampshire,0.17106
+California,New Jersey,100.92357999999999
+California,New Mexico,36.08078
+California,New York,151.37854
+California,North Carolina,28.93148
+California,North Dakota,1.6721599999999999
+California,Ohio,80.95718
+California,Oklahoma,21.715500000000002
+California,Oregon,103.157
+California,Pennsylvania,96.10328000000001
+California,Rhode Island,1.57206
+California,South Carolina,9.218280000000002
+California,South Dakota,0
+California,Tennessee,31.626820000000002
+California,Texas,409.8308
+California,Utah,85.98044
+California,Vermont,0.0012000000000000001
+California,Virginia,46.13344000000001
+California,Washington,251.79863999999998
+California,West Virginia,2.1420000000000003
+California,Wisconsin,108.97562
+California,Wyoming,8.80866
+Colorado,Alabama,0.45687999999999995
+Colorado,Arizona,13.782479999999998
+Colorado,Arkansas,7.993640000000001
+Colorado,California,101.64395999999999
+Colorado,Colorado,1808.68508
+Colorado,Connecticut,0
+Colorado,Delaware,0
+Colorado,Florida,33.162079999999996
+Colorado,Georgia,43.83908
+Colorado,Idaho,4.32212
+Colorado,Illinois,52.528499999999994
+Colorado,Indiana,1.5994199999999998
+Colorado,Iowa,4.37534
+Colorado,Kansas,38.085139999999996
+Colorado,Kentucky,1.60672
+Colorado,Louisiana,0.00156
+Colorado,Maine,0.0023
+Colorado,Maryland,19.14538
+Colorado,Massachusetts,33.07798
+Colorado,Michigan,11.35416
+Colorado,Minnesota,25.88306
+Colorado,Mississippi,0
+Colorado,Missouri,3.2744999999999997
+Colorado,Montana,4.8778
+Colorado,Nebraska,174.84717999999998
+Colorado,Nevada,0.579
+Colorado,New Hampshire,1.09982
+Colorado,New Jersey,50.75632
+Colorado,New Mexico,9.858080000000001
+Colorado,New York,4.65382
+Colorado,North Carolina,10.574279999999998
+Colorado,North Dakota,43.069779999999994
+Colorado,Ohio,47.92678
+Colorado,Oklahoma,32.45894
+Colorado,Oregon,92.3613
+Colorado,Pennsylvania,39.04642
+Colorado,Rhode Island,0
+Colorado,South Carolina,17.51558
+Colorado,South Dakota,0.65934
+Colorado,Tennessee,14.6082
+Colorado,Texas,118.70122
+Colorado,Utah,36.31661999999999
+Colorado,Vermont,0.2405
+Colorado,Virginia,6.098940000000001
+Colorado,Washington,69.47162
+Colorado,West Virginia,0
+Colorado,Wisconsin,50.7106
+Colorado,Wyoming,5.64606
+Connecticut,Alabama,0
+Connecticut,Arizona,0
+Connecticut,Arkansas,0
+Connecticut,California,12.4645
+Connecticut,Colorado,4.4429
+Connecticut,Connecticut,202.4731
+Connecticut,Delaware,0
+Connecticut,Florida,4.72982
+Connecticut,Georgia,15.67944
+Connecticut,Idaho,0
+Connecticut,Illinois,0.00438
+Connecticut,Indiana,13.2882
+Connecticut,Iowa,5.89602
+Connecticut,Kansas,0
+Connecticut,Kentucky,6.3434800000000005
+Connecticut,Louisiana,0
+Connecticut,Maine,1.31152
+Connecticut,Maryland,1.1387399999999999
+Connecticut,Massachusetts,95.4047
+Connecticut,Michigan,3.5598599999999996
+Connecticut,Minnesota,0.0208
+Connecticut,Mississippi,0.00388
+Connecticut,Missouri,0.00156
+Connecticut,Montana,0.46372
+Connecticut,Nebraska,0
+Connecticut,Nevada,0.8718600000000001
+Connecticut,New Hampshire,20.46864
+Connecticut,New Jersey,11.10878
+Connecticut,New Mexico,0.00114
+Connecticut,New York,97.26658
+Connecticut,North Carolina,0.14468
+Connecticut,North Dakota,1.0823399999999999
+Connecticut,Ohio,0.010159999999999999
+Connecticut,Oklahoma,0.00596
+Connecticut,Oregon,7.56118
+Connecticut,Pennsylvania,11.677800000000001
+Connecticut,Rhode Island,12.909119999999998
+Connecticut,South Carolina,0.0054199999999999995
+Connecticut,South Dakota,0
+Connecticut,Tennessee,0.12628
+Connecticut,Texas,37.91436
+Connecticut,Utah,0
+Connecticut,Vermont,7.044120000000001
+Connecticut,Virginia,0.58694
+Connecticut,Washington,12.7407
+Connecticut,West Virginia,0
+Connecticut,Wisconsin,10.613859999999999
+Connecticut,Wyoming,0
+Delaware,Alabama,6.12906
+Delaware,Arizona,0
+Delaware,Arkansas,0
+Delaware,California,0.8525
+Delaware,Colorado,0.24689999999999998
+Delaware,Connecticut,18.1267
+Delaware,Delaware,241.69681999999997
+Delaware,Florida,6.10776
+Delaware,Georgia,18.04428
+Delaware,Idaho,0
+Delaware,Illinois,2.62504
+Delaware,Indiana,0
+Delaware,Iowa,0
+Delaware,Kansas,0.00134
+Delaware,Kentucky,0
+Delaware,Louisiana,0
+Delaware,Maine,13.321700000000002
+Delaware,Maryland,139.21898000000002
+Delaware,Massachusetts,15.72208
+Delaware,Michigan,0
+Delaware,Minnesota,0
+Delaware,Mississippi,0
+Delaware,Missouri,0.23528
+Delaware,Montana,0
+Delaware,Nebraska,0.0018
+Delaware,Nevada,0
+Delaware,New Hampshire,0
+Delaware,New Jersey,69.13336000000001
+Delaware,New Mexico,0
+Delaware,New York,62.5928
+Delaware,North Carolina,4.45584
+Delaware,North Dakota,0
+Delaware,Ohio,2.1549
+Delaware,Oklahoma,0
+Delaware,Oregon,0
+Delaware,Pennsylvania,60.99874
+Delaware,Rhode Island,4.230919999999999
+Delaware,South Carolina,0
+Delaware,South Dakota,0
+Delaware,Tennessee,1.17442
+Delaware,Texas,0
+Delaware,Utah,0
+Delaware,Vermont,0
+Delaware,Virginia,30.288419999999995
+Delaware,Washington,5.83836
+Delaware,West Virginia,0.16286
+Delaware,Wisconsin,3.31282
+Delaware,Wyoming,0
+Florida,Alabama,57.314440000000005
+Florida,Arizona,36.216840000000005
+Florida,Arkansas,3.3129600000000003
+Florida,California,183.51754
+Florida,Colorado,22.98878
+Florida,Connecticut,0.99584
+Florida,Delaware,1.3395800000000002
+Florida,Florida,3867.2673999999997
+Florida,Georgia,222.24408
+Florida,Idaho,1.82224
+Florida,Illinois,48.260059999999996
+Florida,Indiana,24.836039999999997
+Florida,Iowa,2.01682
+Florida,Kansas,17.91712
+Florida,Kentucky,7.040259999999999
+Florida,Louisiana,29.15792
+Florida,Maine,9.89218
+Florida,Maryland,67.61786
+Florida,Massachusetts,32.4678
+Florida,Michigan,31.567560000000004
+Florida,Minnesota,19.7419
+Florida,Mississippi,4.548959999999999
+Florida,Missouri,24.345360000000003
+Florida,Montana,1.1697799999999998
+Florida,Nebraska,1.56966
+Florida,Nevada,7.09666
+Florida,New Hampshire,0.39356
+Florida,New Jersey,59.579719999999995
+Florida,New Mexico,0.61864
+Florida,New York,127.5024
+Florida,North Carolina,42.93584
+Florida,North Dakota,0
+Florida,Ohio,64.34928
+Florida,Oklahoma,28.51492
+Florida,Oregon,7.440779999999999
+Florida,Pennsylvania,59.12486
+Florida,Rhode Island,0.6157199999999999
+Florida,South Carolina,32.65926
+Florida,South Dakota,1.21934
+Florida,Tennessee,94.33904
+Florida,Texas,80.03659999999999
+Florida,Utah,7.4501599999999994
+Florida,Vermont,0
+Florida,Virginia,14.60582
+Florida,Washington,21.55206
+Florida,West Virginia,1.08218
+Florida,Wisconsin,14.849920000000001
+Florida,Wyoming,1.10592
+Georgia,Alabama,374.3121
+Georgia,Arizona,2.01836
+Georgia,Arkansas,113.88065999999999
+Georgia,California,23.517879999999998
+Georgia,Colorado,3.23074
+Georgia,Connecticut,8.161660000000001
+Georgia,Delaware,0.0013
+Georgia,Florida,464.9837600000001
+Georgia,Georgia,2458.51344
+Georgia,Idaho,9.8e-4
+Georgia,Illinois,146.4846
+Georgia,Indiana,21.4095
+Georgia,Iowa,13.23896
+Georgia,Kansas,23.915560000000003
+Georgia,Kentucky,93.23934
+Georgia,Louisiana,38.85356
+Georgia,Maine,0
+Georgia,Maryland,25.18082
+Georgia,Massachusetts,2.21902
+Georgia,Michigan,13.361839999999997
+Georgia,Minnesota,2.53668
+Georgia,Mississippi,79.87201999999999
+Georgia,Missouri,18.42162
+Georgia,Montana,0.1809
+Georgia,Nebraska,1.5035599999999998
+Georgia,Nevada,0.5206799999999999
+Georgia,New Hampshire,0.01456
+Georgia,New Jersey,5.1132800000000005
+Georgia,New Mexico,0
+Georgia,New York,37.2583
+Georgia,North Carolina,324.28894
+Georgia,North Dakota,0
+Georgia,Ohio,27.40342
+Georgia,Oklahoma,1.80892
+Georgia,Oregon,1.4178799999999998
+Georgia,Pennsylvania,23.25928
+Georgia,Rhode Island,0.18988
+Georgia,South Carolina,171.74602000000002
+Georgia,South Dakota,0.09038
+Georgia,Tennessee,74.82578000000001
+Georgia,Texas,77.29312
+Georgia,Utah,0
+Georgia,Vermont,0
+Georgia,Virginia,58.38392
+Georgia,Washington,3.3853999999999997
+Georgia,West Virginia,18.6704
+Georgia,Wisconsin,31.54932
+Georgia,Wyoming,0.040600000000000004
+Idaho,Alabama,12.54368
+Idaho,Arizona,4.72884
+Idaho,Arkansas,0.45990000000000003
+Idaho,California,46.912699999999994
+Idaho,Colorado,36.82772
+Idaho,Connecticut,0.9408200000000001
+Idaho,Delaware,0
+Idaho,Florida,14.81146
+Idaho,Georgia,15.4175
+Idaho,Idaho,834.62742
+Idaho,Illinois,22.55742
+Idaho,Indiana,7.6048
+Idaho,Iowa,16.599020000000003
+Idaho,Kansas,0.6338
+Idaho,Kentucky,17.38814
+Idaho,Louisiana,0.43479999999999996
+Idaho,Maine,0.39588
+Idaho,Maryland,5.7888
+Idaho,Massachusetts,4.4484
+Idaho,Michigan,6.22924
+Idaho,Minnesota,7.822359999999999
+Idaho,Mississippi,6.13296
+Idaho,Missouri,35.27104
+Idaho,Montana,56.47098
+Idaho,Nebraska,3.6787799999999997
+Idaho,Nevada,7.27338
+Idaho,New Hampshire,3.2e-4
+Idaho,New Jersey,0.79928
+Idaho,New Mexico,0
+Idaho,New York,22.23124
+Idaho,North Carolina,1.49528
+Idaho,North Dakota,2.1758800000000003
+Idaho,Ohio,18.33406
+Idaho,Oklahoma,4.09968
+Idaho,Oregon,42.44172
+Idaho,Pennsylvania,12.49326
+Idaho,Rhode Island,0
+Idaho,South Carolina,0.52418
+Idaho,South Dakota,0
+Idaho,Tennessee,20.86704
+Idaho,Texas,18.80824
+Idaho,Utah,19.1591
+Idaho,Vermont,0.42375999999999997
+Idaho,Virginia,22.96006
+Idaho,Washington,57.56604
+Idaho,West Virginia,0
+Idaho,Wisconsin,12.824860000000001
+Idaho,Wyoming,0
+Illinois,Alabama,67.17582
+Illinois,Arizona,19.959380000000003
+Illinois,Arkansas,30.382240000000003
+Illinois,California,267.42086
+Illinois,Colorado,59.07242
+Illinois,Connecticut,18.35794
+Illinois,Delaware,5.82818
+Illinois,Florida,273.43050000000005
+Illinois,Georgia,304.92906
+Illinois,Idaho,12.55122
+Illinois,Illinois,11031.72626
+Illinois,Indiana,321.07262
+Illinois,Iowa,323.74896
+Illinois,Kansas,49.7202
+Illinois,Kentucky,89.20168000000001
+Illinois,Louisiana,1059.62146
+Illinois,Maine,0.12192
+Illinois,Maryland,67.31684
+Illinois,Massachusetts,45.58034
+Illinois,Michigan,185.98214000000002
+Illinois,Minnesota,164.78746
+Illinois,Mississippi,194.97546
+Illinois,Missouri,811.19362
+Illinois,Montana,4.81428
+Illinois,Nebraska,70.03568
+Illinois,Nevada,13.6356
+Illinois,New Hampshire,10.181259999999998
+Illinois,New Jersey,108.36784
+Illinois,New Mexico,3.9472
+Illinois,New York,208.46494
+Illinois,North Carolina,64.40324
+Illinois,North Dakota,0.33148
+Illinois,Ohio,242.81116000000003
+Illinois,Oklahoma,11.94384
+Illinois,Oregon,57.53366000000001
+Illinois,Pennsylvania,166.77215999999999
+Illinois,Rhode Island,0.22139999999999999
+Illinois,South Carolina,33.78216
+Illinois,South Dakota,4.28224
+Illinois,Tennessee,320.59022000000004
+Illinois,Texas,242.72076
+Illinois,Utah,231.01912000000002
+Illinois,Vermont,0.8867999999999998
+Illinois,Virginia,47.6125
+Illinois,Washington,48.467400000000005
+Illinois,West Virginia,14.590160000000001
+Illinois,Wisconsin,410.06484
+Illinois,Wyoming,3.1937
+Indiana,Alabama,51.477380000000004
+Indiana,Arizona,1.6773399999999998
+Indiana,Arkansas,17.625040000000002
+Indiana,California,81.32414000000001
+Indiana,Colorado,0
+Indiana,Connecticut,2.58034
+Indiana,Delaware,2.24372
+Indiana,Florida,89.27628
+Indiana,Georgia,271.99562000000003
+Indiana,Idaho,2.41226
+Indiana,Illinois,722.18992
+Indiana,Indiana,3803.3178
+Indiana,Iowa,70.67716
+Indiana,Kansas,50.251760000000004
+Indiana,Kentucky,251.05856
+Indiana,Louisiana,227.58974000000003
+Indiana,Maine,0
+Indiana,Maryland,29.681140000000006
+Indiana,Massachusetts,9.55676
+Indiana,Michigan,136.83582
+Indiana,Minnesota,47.591499999999996
+Indiana,Mississippi,4.943
+Indiana,Missouri,11.26952
+Indiana,Montana,0
+Indiana,Nebraska,142.428
+Indiana,Nevada,0
+Indiana,New Hampshire,4.36064
+Indiana,New Jersey,9.29282
+Indiana,New Mexico,10.47868
+Indiana,New York,54.9689
+Indiana,North Carolina,131.75794
+Indiana,North Dakota,0.00124
+Indiana,Ohio,474.0577
+Indiana,Oklahoma,10.57636
+Indiana,Oregon,0
+Indiana,Pennsylvania,70.79504
+Indiana,Rhode Island,0
+Indiana,South Carolina,12.0995
+Indiana,South Dakota,130.67736
+Indiana,Tennessee,80.05776
+Indiana,Texas,112.53644
+Indiana,Utah,0
+Indiana,Vermont,1.1946400000000001
+Indiana,Virginia,36.48
+Indiana,Washington,7.298439999999999
+Indiana,West Virginia,0.50272
+Indiana,Wisconsin,29.83682
+Indiana,Wyoming,0
+Iowa,Alabama,30.598679999999995
+Iowa,Arizona,33.990700000000004
+Iowa,Arkansas,39.004859999999994
+Iowa,California,128.39844
+Iowa,Colorado,33.95002
+Iowa,Connecticut,9.79646
+Iowa,Delaware,6.2471
+Iowa,Florida,38.69742
+Iowa,Georgia,49.310739999999996
+Iowa,Idaho,23.18142
+Iowa,Illinois,742.4131799999999
+Iowa,Indiana,70.54024
+Iowa,Iowa,9610.443299999999
+Iowa,Kansas,115.53968
+Iowa,Kentucky,31.972140000000003
+Iowa,Louisiana,583.97782
+Iowa,Maine,2.89628
+Iowa,Maryland,2.65174
+Iowa,Massachusetts,44.30036
+Iowa,Michigan,105.83174
+Iowa,Minnesota,1151.7176
+Iowa,Mississippi,31.587619999999998
+Iowa,Missouri,416.39336000000003
+Iowa,Montana,0
+Iowa,Nebraska,641.07994
+Iowa,Nevada,15.70878
+Iowa,New Hampshire,0.4443
+Iowa,New Jersey,30.28794
+Iowa,New Mexico,15.27492
+Iowa,New York,36.37842
+Iowa,North Carolina,22.87954
+Iowa,North Dakota,3.95762
+Iowa,Ohio,130.6719
+Iowa,Oklahoma,85.58712
+Iowa,Oregon,10.062
+Iowa,Pennsylvania,83.46079999999999
+Iowa,Rhode Island,0.19084
+Iowa,South Carolina,13.395399999999999
+Iowa,South Dakota,28.569100000000002
+Iowa,Tennessee,62.65297999999999
+Iowa,Texas,347.9726999999999
+Iowa,Utah,25.76334
+Iowa,Vermont,5.374
+Iowa,Virginia,13.85088
+Iowa,Washington,195.53702
+Iowa,West Virginia,0
+Iowa,Wisconsin,300.84517999999997
+Iowa,Wyoming,0.10736000000000001
+Kansas,Alabama,88.33158
+Kansas,Arizona,66.66782
+Kansas,Arkansas,102.13318000000001
+Kansas,California,237.81437999999997
+Kansas,Colorado,29.388740000000002
+Kansas,Connecticut,6.03646
+Kansas,Delaware,0
+Kansas,Florida,198.33970000000002
+Kansas,Georgia,183.25258
+Kansas,Idaho,9.74084
+Kansas,Illinois,380.65972
+Kansas,Indiana,68.12356
+Kansas,Iowa,97.55928
+Kansas,Kansas,4682.73424
+Kansas,Kentucky,68.71776
+Kansas,Louisiana,92.7492
+Kansas,Maine,4.3764
+Kansas,Maryland,21.89066
+Kansas,Massachusetts,43.06558
+Kansas,Michigan,59.38712
+Kansas,Minnesota,36.35296
+Kansas,Mississippi,33.21732
+Kansas,Missouri,632.7368200000001
+Kansas,Montana,0.45594
+Kansas,Nebraska,442.98276000000004
+Kansas,Nevada,17.3587
+Kansas,New Hampshire,13.893899999999999
+Kansas,New Jersey,77.42302
+Kansas,New Mexico,1.8813600000000001
+Kansas,New York,68.6154
+Kansas,North Carolina,96.24924000000001
+Kansas,North Dakota,5.396739999999999
+Kansas,Ohio,60.41944000000001
+Kansas,Oklahoma,234.27306
+Kansas,Oregon,71.5112
+Kansas,Pennsylvania,130.02335999999997
+Kansas,Rhode Island,0
+Kansas,South Carolina,27.016379999999998
+Kansas,South Dakota,0
+Kansas,Tennessee,50.90908
+Kansas,Texas,2605.56382
+Kansas,Utah,62.600559999999994
+Kansas,Vermont,0.29236
+Kansas,Virginia,28.660719999999998
+Kansas,Washington,30.74452
+Kansas,West Virginia,0.26896
+Kansas,Wisconsin,161.12136
+Kansas,Wyoming,10.95064
+Kentucky,Alabama,24.488419999999998
+Kentucky,Arizona,24.263659999999998
+Kentucky,Arkansas,4.81858
+Kentucky,California,45.084500000000006
+Kentucky,Colorado,0.65062
+Kentucky,Connecticut,0.42846
+Kentucky,Delaware,4.56142
+Kentucky,Florida,42.34138
+Kentucky,Georgia,59.06696000000001
+Kentucky,Idaho,0
+Kentucky,Illinois,107.73364
+Kentucky,Indiana,232.24678
+Kentucky,Iowa,7.28446
+Kentucky,Kansas,20.97524
+Kentucky,Kentucky,1178.3551
+Kentucky,Louisiana,271.29913999999997
+Kentucky,Maine,0
+Kentucky,Maryland,38.897800000000004
+Kentucky,Massachusetts,0
+Kentucky,Michigan,41.028020000000005
+Kentucky,Minnesota,19.41726
+Kentucky,Mississippi,7.364140000000001
+Kentucky,Missouri,17.02892
+Kentucky,Montana,1.3596799999999998
+Kentucky,Nebraska,0
+Kentucky,Nevada,5.95288
+Kentucky,New Hampshire,0
+Kentucky,New Jersey,6.532300000000001
+Kentucky,New Mexico,0
+Kentucky,New York,10.3644
+Kentucky,North Carolina,79.67882
+Kentucky,North Dakota,0
+Kentucky,Ohio,160.43574
+Kentucky,Oklahoma,2.76044
+Kentucky,Oregon,1.8279799999999997
+Kentucky,Pennsylvania,38.53338
+Kentucky,Rhode Island,0
+Kentucky,South Carolina,18.8677
+Kentucky,South Dakota,0
+Kentucky,Tennessee,153.58634
+Kentucky,Texas,35.7186
+Kentucky,Utah,5.42762
+Kentucky,Vermont,0.2919
+Kentucky,Virginia,75.21849999999999
+Kentucky,Washington,14.622620000000001
+Kentucky,West Virginia,15.374780000000001
+Kentucky,Wisconsin,10.70494
+Kentucky,Wyoming,0
+Louisiana,Alabama,12.52954
+Louisiana,Arizona,2.63076
+Louisiana,Arkansas,34.95704
+Louisiana,California,73.68724
+Louisiana,Colorado,0.20732
+Louisiana,Connecticut,0
+Louisiana,Delaware,5.67072
+Louisiana,Florida,20.47898
+Louisiana,Georgia,8.968419999999998
+Louisiana,Idaho,0
+Louisiana,Illinois,25.375359999999997
+Louisiana,Indiana,13.524000000000001
+Louisiana,Iowa,0
+Louisiana,Kansas,2.65534
+Louisiana,Kentucky,1.4157
+Louisiana,Louisiana,839.8894200000001
+Louisiana,Maine,0
+Louisiana,Maryland,0.028820000000000002
+Louisiana,Massachusetts,3.28078
+Louisiana,Michigan,0.19126
+Louisiana,Minnesota,0.29118
+Louisiana,Mississippi,339.57975999999996
+Louisiana,Missouri,191.99035999999998
+Louisiana,Montana,0
+Louisiana,Nebraska,0.0032
+Louisiana,Nevada,0.27342
+Louisiana,New Hampshire,0
+Louisiana,New Jersey,0
+Louisiana,New Mexico,0
+Louisiana,New York,0
+Louisiana,North Carolina,4.396199999999999
+Louisiana,North Dakota,0
+Louisiana,Ohio,1.2419
+Louisiana,Oklahoma,4.45832
+Louisiana,Oregon,4.8452399999999995
+Louisiana,Pennsylvania,2.6966200000000002
+Louisiana,Rhode Island,0
+Louisiana,South Carolina,0.19702
+Louisiana,South Dakota,0
+Louisiana,Tennessee,6.4669
+Louisiana,Texas,197.17274000000003
+Louisiana,Utah,0
+Louisiana,Vermont,0.34542
+Louisiana,Virginia,0.48118
+Louisiana,Washington,0
+Louisiana,West Virginia,0
+Louisiana,Wisconsin,0.67504
+Louisiana,Wyoming,0
+Maine,Alabama,0.51806
+Maine,Arizona,0.20716
+Maine,Arkansas,0
+Maine,California,7.642739999999999
+Maine,Colorado,0.62912
+Maine,Connecticut,0.83432
+Maine,Delaware,0.13046
+Maine,Florida,7.40866
+Maine,Georgia,5.58962
+Maine,Idaho,0.44426
+Maine,Illinois,6.829740000000001
+Maine,Indiana,0.22752
+Maine,Iowa,0.21526
+Maine,Kansas,0.012379999999999999
+Maine,Kentucky,0.05178000000000001
+Maine,Louisiana,0.35764
+Maine,Maine,158.2315
+Maine,Maryland,5.22774
+Maine,Massachusetts,46.094100000000005
+Maine,Michigan,3.1388
+Maine,Minnesota,0.25542
+Maine,Mississippi,0
+Maine,Missouri,0.889
+Maine,Montana,0.00104
+Maine,Nebraska,0
+Maine,Nevada,0
+Maine,New Hampshire,26.599580000000003
+Maine,New Jersey,3.07882
+Maine,New Mexico,0.00258
+Maine,New York,11.632579999999999
+Maine,North Carolina,2.1417200000000003
+Maine,North Dakota,0
+Maine,Ohio,2.92686
+Maine,Oklahoma,0.8771800000000001
+Maine,Oregon,0.69158
+Maine,Pennsylvania,8.601360000000001
+Maine,Rhode Island,2.41214
+Maine,South Carolina,1.2592
+Maine,South Dakota,0
+Maine,Tennessee,0.42682000000000003
+Maine,Texas,2.10796
+Maine,Utah,0.25534
+Maine,Vermont,6.077420000000001
+Maine,Virginia,6.01208
+Maine,Washington,0.18918
+Maine,West Virginia,0
+Maine,Wisconsin,1.05118
+Maine,Wyoming,0
+Maryland,Alabama,0.40508
+Maryland,Arizona,0
+Maryland,Arkansas,0
+Maryland,California,4.2589
+Maryland,Colorado,0
+Maryland,Connecticut,13.9452
+Maryland,Delaware,81.96634
+Maryland,Florida,0.9945
+Maryland,Georgia,0.00138
+Maryland,Idaho,0
+Maryland,Illinois,1.3496
+Maryland,Indiana,0
+Maryland,Iowa,0
+Maryland,Kansas,6.399999999999999e-4
+Maryland,Kentucky,1.25648
+Maryland,Louisiana,0
+Maryland,Maine,6.83126
+Maryland,Maryland,703.03426
+Maryland,Massachusetts,35.79556
+Maryland,Michigan,0.56086
+Maryland,Minnesota,0.6949799999999999
+Maryland,Mississippi,0
+Maryland,Missouri,0
+Maryland,Montana,0
+Maryland,Nebraska,0
+Maryland,Nevada,0
+Maryland,New Hampshire,12.103060000000001
+Maryland,New Jersey,31.536739999999998
+Maryland,New Mexico,0
+Maryland,New York,41.82038
+Maryland,North Carolina,20.210720000000002
+Maryland,North Dakota,0
+Maryland,Ohio,1.20724
+Maryland,Oklahoma,0
+Maryland,Oregon,0
+Maryland,Pennsylvania,150.37127999999998
+Maryland,Rhode Island,2.3176200000000002
+Maryland,South Carolina,3.5229
+Maryland,South Dakota,0
+Maryland,Tennessee,1.39542
+Maryland,Texas,2.59356
+Maryland,Utah,0
+Maryland,Vermont,0.40587999999999996
+Maryland,Virginia,271.18255999999997
+Maryland,Washington,0
+Maryland,West Virginia,1.3568200000000001
+Maryland,Wisconsin,0
+Maryland,Wyoming,0
+Massachusetts,Alabama,0.42842
+Massachusetts,Arizona,3.9727400000000004
+Massachusetts,Arkansas,0.22746
+Massachusetts,California,29.140620000000002
+Massachusetts,Colorado,7.21216
+Massachusetts,Connecticut,51.37670000000001
+Massachusetts,Delaware,0.21345999999999998
+Massachusetts,Florida,31.17634
+Massachusetts,Georgia,6.998279999999999
+Massachusetts,Idaho,0.71868
+Massachusetts,Illinois,21.21146
+Massachusetts,Indiana,10.840959999999999
+Massachusetts,Iowa,4.56724
+Massachusetts,Kansas,1.16014
+Massachusetts,Kentucky,3.30934
+Massachusetts,Louisiana,1.48682
+Massachusetts,Maine,25.38098
+Massachusetts,Maryland,19.645699999999998
+Massachusetts,Massachusetts,443.1178999999999
+Massachusetts,Michigan,6.05486
+Massachusetts,Minnesota,0.6697
+Massachusetts,Mississippi,0.79902
+Massachusetts,Missouri,3.8206199999999995
+Massachusetts,Montana,0.7067399999999999
+Massachusetts,Nebraska,0.24956
+Massachusetts,Nevada,3.7159199999999997
+Massachusetts,New Hampshire,46.56804
+Massachusetts,New Jersey,60.40602
+Massachusetts,New Mexico,2.20906
+Massachusetts,New York,88.36062
+Massachusetts,North Carolina,16.50208
+Massachusetts,North Dakota,0.00516
+Massachusetts,Ohio,7.662940000000001
+Massachusetts,Oklahoma,0.47518000000000005
+Massachusetts,Oregon,1.42294
+Massachusetts,Pennsylvania,59.78968
+Massachusetts,Rhode Island,29.540879999999998
+Massachusetts,South Carolina,10.390360000000001
+Massachusetts,South Dakota,0
+Massachusetts,Tennessee,13.24394
+Massachusetts,Texas,26.10562
+Massachusetts,Utah,0.19936
+Massachusetts,Vermont,24.73764
+Massachusetts,Virginia,9.024000000000001
+Massachusetts,Washington,10.354980000000001
+Massachusetts,West Virginia,0.49422
+Massachusetts,Wisconsin,4.90946
+Massachusetts,Wyoming,1.3463
+Michigan,Alabama,26.908860000000004
+Michigan,Arizona,4.93826
+Michigan,Arkansas,3.9643
+Michigan,California,90.78368
+Michigan,Colorado,17.168240000000004
+Michigan,Connecticut,9.48472
+Michigan,Delaware,1.71684
+Michigan,Florida,16.61228
+Michigan,Georgia,83.04038
+Michigan,Idaho,0.20912000000000003
+Michigan,Illinois,189.10524000000004
+Michigan,Indiana,246.38766
+Michigan,Iowa,5.97254
+Michigan,Kansas,8.24102
+Michigan,Kentucky,30.538099999999996
+Michigan,Louisiana,39.85494
+Michigan,Maine,3.64102
+Michigan,Maryland,15.419120000000001
+Michigan,Massachusetts,13.803519999999997
+Michigan,Michigan,1626.9394
+Michigan,Minnesota,36.53172
+Michigan,Mississippi,0
+Michigan,Missouri,3.1907
+Michigan,Montana,0.00436
+Michigan,Nebraska,4.611459999999999
+Michigan,Nevada,2.25372
+Michigan,New Hampshire,0
+Michigan,New Jersey,42.11014
+Michigan,New Mexico,0
+Michigan,New York,43.78958
+Michigan,North Carolina,143.59012
+Michigan,North Dakota,0.16898
+Michigan,Ohio,166.95276
+Michigan,Oklahoma,1.03864
+Michigan,Oregon,6.13342
+Michigan,Pennsylvania,119.52184
+Michigan,Rhode Island,0
+Michigan,South Carolina,80.22944
+Michigan,South Dakota,3.2857999999999996
+Michigan,Tennessee,64.62039999999999
+Michigan,Texas,133.10414
+Michigan,Utah,1.5287600000000001
+Michigan,Vermont,0.22346
+Michigan,Virginia,7.89082
+Michigan,Washington,1.74328
+Michigan,West Virginia,0
+Michigan,Wisconsin,139.11602
+Michigan,Wyoming,0
+Minnesota,Alabama,6.434259999999999
+Minnesota,Arizona,3.56228
+Minnesota,Arkansas,169.70684
+Minnesota,California,123.46108
+Minnesota,Colorado,7.824539999999999
+Minnesota,Connecticut,7.994020000000001
+Minnesota,Delaware,0
+Minnesota,Florida,38.09296
+Minnesota,Georgia,48.30456
+Minnesota,Idaho,0.9921200000000001
+Minnesota,Illinois,353.84586
+Minnesota,Indiana,26.404040000000002
+Minnesota,Iowa,1139.3712
+Minnesota,Kansas,30.37784
+Minnesota,Kentucky,28.6007
+Minnesota,Louisiana,223.57925999999998
+Minnesota,Maine,0.6396599999999999
+Minnesota,Maryland,12.20536
+Minnesota,Massachusetts,20.73746
+Minnesota,Michigan,102.60571999999999
+Minnesota,Minnesota,6120.0069
+Minnesota,Mississippi,23.06608
+Minnesota,Missouri,42.258140000000004
+Minnesota,Montana,9.69612
+Minnesota,Nebraska,99.60185999999999
+Minnesota,Nevada,1.17442
+Minnesota,New Hampshire,0
+Minnesota,New Jersey,1.3817
+Minnesota,New Mexico,13.31626
+Minnesota,New York,37.09622
+Minnesota,North Carolina,4.73352
+Minnesota,North Dakota,274.42164
+Minnesota,Ohio,66.83094
+Minnesota,Oklahoma,11.87022
+Minnesota,Oregon,33.90902
+Minnesota,Pennsylvania,22.40992
+Minnesota,Rhode Island,5.54998
+Minnesota,South Carolina,3.1327
+Minnesota,South Dakota,91.20604
+Minnesota,Tennessee,14.13688
+Minnesota,Texas,87.96536
+Minnesota,Utah,14.629420000000001
+Minnesota,Vermont,3.0618000000000003
+Minnesota,Virginia,37.0507
+Minnesota,Washington,182.1699
+Minnesota,West Virginia,0.01646
+Minnesota,Wisconsin,425.31466
+Minnesota,Wyoming,0.42904
+Mississippi,Alabama,112.54897999999999
+Mississippi,Arizona,28.16428
+Mississippi,Arkansas,178.49078
+Mississippi,California,92.4066
+Mississippi,Colorado,9.20938
+Mississippi,Connecticut,0.8191200000000001
+Mississippi,Delaware,3.8881800000000006
+Mississippi,Florida,27.070120000000003
+Mississippi,Georgia,18.2289
+Mississippi,Idaho,0.01996
+Mississippi,Illinois,102.29648
+Mississippi,Indiana,14.71574
+Mississippi,Iowa,10.6386
+Mississippi,Kansas,2.39888
+Mississippi,Kentucky,1.4899200000000001
+Mississippi,Louisiana,248.70281999999997
+Mississippi,Maine,0
+Mississippi,Maryland,13.537780000000001
+Mississippi,Massachusetts,6.865900000000001
+Mississippi,Michigan,0.81776
+Mississippi,Minnesota,15.36166
+Mississippi,Mississippi,904.60006
+Mississippi,Missouri,166.06466
+Mississippi,Montana,0.0017000000000000001
+Mississippi,Nebraska,0.20676
+Mississippi,Nevada,0
+Mississippi,New Hampshire,0
+Mississippi,New Jersey,2.26412
+Mississippi,New Mexico,1.53132
+Mississippi,New York,2.6782399999999997
+Mississippi,North Carolina,7.72398
+Mississippi,North Dakota,0
+Mississippi,Ohio,5.14908
+Mississippi,Oklahoma,4.53162
+Mississippi,Oregon,5.926740000000001
+Mississippi,Pennsylvania,9.147540000000001
+Mississippi,Rhode Island,0
+Mississippi,South Carolina,13.991760000000003
+Mississippi,South Dakota,0
+Mississippi,Tennessee,33.78923999999999
+Mississippi,Texas,116.21124
+Mississippi,Utah,8.700140000000001
+Mississippi,Vermont,0.037540000000000004
+Mississippi,Virginia,7.77932
+Mississippi,Washington,1.7090800000000002
+Mississippi,West Virginia,0
+Mississippi,Wisconsin,5.72474
+Mississippi,Wyoming,0
+Missouri,Alabama,69.12165999999999
+Missouri,Arizona,62.014100000000006
+Missouri,Arkansas,396.82732
+Missouri,California,82.58066
+Missouri,Colorado,15.077940000000002
+Missouri,Connecticut,1.83996
+Missouri,Delaware,0
+Missouri,Florida,21.474719999999998
+Missouri,Georgia,56.24556
+Missouri,Idaho,0
+Missouri,Illinois,427.4273799999999
+Missouri,Indiana,37.801339999999996
+Missouri,Iowa,68.62518
+Missouri,Kansas,271.98681999999997
+Missouri,Kentucky,33.362179999999995
+Missouri,Louisiana,431.85749999999996
+Missouri,Maine,0
+Missouri,Maryland,0.87044
+Missouri,Massachusetts,5.7789
+Missouri,Michigan,31.22466
+Missouri,Minnesota,58.12758
+Missouri,Mississippi,14.242519999999999
+Missouri,Missouri,3017.21636
+Missouri,Montana,2.94026
+Missouri,Nebraska,137.81704
+Missouri,Nevada,2.5190799999999998
+Missouri,New Hampshire,0.47539999999999993
+Missouri,New Jersey,10.084819999999999
+Missouri,New Mexico,6.557219999999999
+Missouri,New York,7.32612
+Missouri,North Carolina,8.25086
+Missouri,North Dakota,0
+Missouri,Ohio,24.01402
+Missouri,Oklahoma,112.37568000000002
+Missouri,Oregon,14.28286
+Missouri,Pennsylvania,71.13892
+Missouri,Rhode Island,29.3704
+Missouri,South Carolina,2.24512
+Missouri,South Dakota,2.26662
+Missouri,Tennessee,16.901339999999998
+Missouri,Texas,176.8516
+Missouri,Utah,25.968420000000002
+Missouri,Vermont,0.4288
+Missouri,Virginia,12.814699999999998
+Missouri,Washington,1.0893799999999998
+Missouri,West Virginia,1.1640599999999999
+Missouri,Wisconsin,30.51588
+Missouri,Wyoming,0
+Montana,Alabama,0.00456
+Montana,Arizona,20.46416
+Montana,Arkansas,0
+Montana,California,9.33184
+Montana,Colorado,18.476679999999998
+Montana,Connecticut,0
+Montana,Delaware,4e-5
+Montana,Florida,0
+Montana,Georgia,0.80054
+Montana,Idaho,140.41902
+Montana,Illinois,0.011640000000000001
+Montana,Indiana,0
+Montana,Iowa,0
+Montana,Kansas,0.9839399999999999
+Montana,Kentucky,0
+Montana,Louisiana,0
+Montana,Maine,5.9999999999999995e-5
+Montana,Maryland,0
+Montana,Massachusetts,0
+Montana,Michigan,0.34328000000000003
+Montana,Minnesota,1.1403
+Montana,Mississippi,2e-5
+Montana,Missouri,0.24754
+Montana,Montana,320.3305
+Montana,Nebraska,1.7864
+Montana,Nevada,0.15304
+Montana,New Hampshire,3.0000000000000003e-4
+Montana,New Jersey,0
+Montana,New Mexico,0.10636000000000001
+Montana,New York,0
+Montana,North Carolina,0.08892
+Montana,North Dakota,10.16292
+Montana,Ohio,0
+Montana,Oklahoma,0
+Montana,Oregon,2.58314
+Montana,Pennsylvania,0
+Montana,Rhode Island,0
+Montana,South Carolina,0
+Montana,South Dakota,0.19592
+Montana,Tennessee,0
+Montana,Texas,43.576280000000004
+Montana,Utah,7.199040000000001
+Montana,Vermont,0
+Montana,Virginia,0
+Montana,Washington,133.36772
+Montana,West Virginia,0
+Montana,Wisconsin,0
+Montana,Wyoming,5.1489400000000005
+Nebraska,Alabama,38.54214
+Nebraska,Arizona,46.153639999999996
+Nebraska,Arkansas,19.672379999999997
+Nebraska,California,1010.6076799999998
+Nebraska,Colorado,80.97994
+Nebraska,Connecticut,4.32794
+Nebraska,Delaware,0
+Nebraska,Florida,69.54276
+Nebraska,Georgia,91.55108
+Nebraska,Idaho,40.20682
+Nebraska,Illinois,586.4931799999999
+Nebraska,Indiana,52.48968
+Nebraska,Iowa,723.4985
+Nebraska,Kansas,503.78262000000007
+Nebraska,Kentucky,26.513779999999997
+Nebraska,Louisiana,29.2529
+Nebraska,Maine,0.01718
+Nebraska,Maryland,37.616460000000004
+Nebraska,Massachusetts,72.18498
+Nebraska,Michigan,97.7168
+Nebraska,Minnesota,242.31839999999997
+Nebraska,Mississippi,13.12622
+Nebraska,Missouri,138.07268
+Nebraska,Montana,1.37056
+Nebraska,Nebraska,6143.96178
+Nebraska,Nevada,14.657079999999999
+Nebraska,New Hampshire,1.9957999999999998
+Nebraska,New Jersey,57.839279999999995
+Nebraska,New Mexico,6.18144
+Nebraska,New York,128.23554
+Nebraska,North Carolina,65.26104000000001
+Nebraska,North Dakota,24.74154
+Nebraska,Ohio,112.49868000000001
+Nebraska,Oklahoma,62.72814000000001
+Nebraska,Oregon,26.0978
+Nebraska,Pennsylvania,100.1041
+Nebraska,Rhode Island,3.09992
+Nebraska,South Carolina,8.678619999999999
+Nebraska,South Dakota,59.24141999999999
+Nebraska,Tennessee,63.13660000000001
+Nebraska,Texas,520.76856
+Nebraska,Utah,18.490879999999997
+Nebraska,Vermont,1.29366
+Nebraska,Virginia,53.05124000000001
+Nebraska,Washington,81.34752
+Nebraska,West Virginia,0.01032
+Nebraska,Wisconsin,324.78336
+Nebraska,Wyoming,5.146380000000001
+Nevada,Alabama,0
+Nevada,Arizona,0.19696
+Nevada,Arkansas,0
+Nevada,California,91.2101
+Nevada,Colorado,0
+Nevada,Connecticut,0
+Nevada,Delaware,0
+Nevada,Florida,0.69808
+Nevada,Georgia,0
+Nevada,Idaho,8.90248
+Nevada,Illinois,0
+Nevada,Indiana,0
+Nevada,Iowa,0
+Nevada,Kansas,0
+Nevada,Kentucky,0
+Nevada,Louisiana,0
+Nevada,Maine,0
+Nevada,Maryland,0.15646
+Nevada,Massachusetts,0
+Nevada,Michigan,0
+Nevada,Minnesota,0
+Nevada,Mississippi,0
+Nevada,Missouri,0
+Nevada,Montana,5.536379999999999
+Nevada,Nebraska,0
+Nevada,Nevada,227.23838
+Nevada,New Hampshire,0
+Nevada,New Jersey,0
+Nevada,New Mexico,0
+Nevada,New York,2.76146
+Nevada,North Carolina,0
+Nevada,North Dakota,0
+Nevada,Ohio,0
+Nevada,Oklahoma,2.2126799999999998
+Nevada,Oregon,13.48508
+Nevada,Pennsylvania,0
+Nevada,Rhode Island,0
+Nevada,South Carolina,0
+Nevada,South Dakota,0
+Nevada,Tennessee,0
+Nevada,Texas,0
+Nevada,Utah,36.57574
+Nevada,Vermont,0
+Nevada,Virginia,0
+Nevada,Washington,41.34516
+Nevada,West Virginia,0
+Nevada,Wisconsin,0
+Nevada,Wyoming,0
+New Hampshire,Alabama,0.23872
+New Hampshire,Arizona,0
+New Hampshire,Arkansas,0.10076
+New Hampshire,California,5.91962
+New Hampshire,Colorado,0.43088
+New Hampshire,Connecticut,2.13878
+New Hampshire,Delaware,0
+New Hampshire,Florida,2.4021
+New Hampshire,Georgia,0
+New Hampshire,Idaho,0
+New Hampshire,Illinois,0.96746
+New Hampshire,Indiana,0.4359
+New Hampshire,Iowa,0
+New Hampshire,Kansas,0
+New Hampshire,Kentucky,0.04852
+New Hampshire,Louisiana,0
+New Hampshire,Maine,17.36016
+New Hampshire,Maryland,0.41988000000000003
+New Hampshire,Massachusetts,55.12838000000001
+New Hampshire,Michigan,0.0016
+New Hampshire,Minnesota,0.00292
+New Hampshire,Mississippi,0
+New Hampshire,Missouri,0
+New Hampshire,Montana,0
+New Hampshire,Nebraska,0
+New Hampshire,Nevada,0.38018
+New Hampshire,New Hampshire,45.53674
+New Hampshire,New Jersey,1.1179599999999998
+New Hampshire,New Mexico,0
+New Hampshire,New York,8.9672
+New Hampshire,North Carolina,0.00104
+New Hampshire,North Dakota,0.0683
+New Hampshire,Ohio,0.2412
+New Hampshire,Oklahoma,0
+New Hampshire,Oregon,0
+New Hampshire,Pennsylvania,2.5130600000000003
+New Hampshire,Rhode Island,8.97388
+New Hampshire,South Carolina,1.7621200000000001
+New Hampshire,South Dakota,0
+New Hampshire,Tennessee,0.00106
+New Hampshire,Texas,1.00868
+New Hampshire,Utah,0
+New Hampshire,Vermont,6.721080000000001
+New Hampshire,Virginia,0.29488
+New Hampshire,Washington,0.17334
+New Hampshire,West Virginia,0.03724
+New Hampshire,Wisconsin,0
+New Hampshire,Wyoming,0
+New Jersey,Alabama,48.18566
+New Jersey,Arizona,3.9703000000000004
+New Jersey,Arkansas,1.64708
+New Jersey,California,77.00212
+New Jersey,Colorado,3.30156
+New Jersey,Connecticut,234.65768000000003
+New Jersey,Delaware,27.753679999999996
+New Jersey,Florida,46.67404
+New Jersey,Georgia,38.3869
+New Jersey,Idaho,0
+New Jersey,Illinois,30.3955
+New Jersey,Indiana,0
+New Jersey,Iowa,10.7215
+New Jersey,Kansas,0.62094
+New Jersey,Kentucky,16.60718
+New Jersey,Louisiana,2.66966
+New Jersey,Maine,26.596479999999996
+New Jersey,Maryland,141.28408
+New Jersey,Massachusetts,203.22262
+New Jersey,Michigan,4.99134
+New Jersey,Minnesota,11.3101
+New Jersey,Mississippi,14.428180000000001
+New Jersey,Missouri,16.576839999999997
+New Jersey,Montana,0
+New Jersey,Nebraska,0.57562
+New Jersey,Nevada,0.14126
+New Jersey,New Hampshire,0.45324
+New Jersey,New Jersey,2040.0305
+New Jersey,New Mexico,0
+New Jersey,New York,1076.5345000000002
+New Jersey,North Carolina,81.3986
+New Jersey,North Dakota,2.52718
+New Jersey,Ohio,26.38658
+New Jersey,Oklahoma,28.74556
+New Jersey,Oregon,9.762599999999999
+New Jersey,Pennsylvania,389.45572000000004
+New Jersey,Rhode Island,16.982639999999996
+New Jersey,South Carolina,17.18976
+New Jersey,South Dakota,0
+New Jersey,Tennessee,11.37332
+New Jersey,Texas,22.36028
+New Jersey,Utah,6.3493
+New Jersey,Vermont,35.11806
+New Jersey,Virginia,79.2415
+New Jersey,Washington,2.21142
+New Jersey,West Virginia,0
+New Jersey,Wisconsin,21.30328
+New Jersey,Wyoming,0
+New Mexico,Alabama,3.68598
+New Mexico,Arizona,9.615820000000001
+New Mexico,Arkansas,0.40508
+New Mexico,California,2.60926
+New Mexico,Colorado,7.89482
+New Mexico,Connecticut,0
+New Mexico,Delaware,0
+New Mexico,Florida,0.19268000000000002
+New Mexico,Georgia,2.8705600000000002
+New Mexico,Idaho,0
+New Mexico,Illinois,5.03054
+New Mexico,Indiana,0.19263999999999998
+New Mexico,Iowa,0.0033599999999999997
+New Mexico,Kansas,2.2470399999999997
+New Mexico,Kentucky,0.12172000000000001
+New Mexico,Louisiana,2.39752
+New Mexico,Maine,0.0025399999999999997
+New Mexico,Maryland,0.05328000000000001
+New Mexico,Massachusetts,3.6514
+New Mexico,Michigan,0
+New Mexico,Minnesota,0.10724
+New Mexico,Mississippi,0.00126
+New Mexico,Missouri,0
+New Mexico,Montana,0.04148
+New Mexico,Nebraska,0
+New Mexico,Nevada,0.00236
+New Mexico,New Hampshire,0
+New Mexico,New Jersey,0.58982
+New Mexico,New Mexico,218.91114
+New Mexico,New York,0
+New Mexico,North Carolina,13.093039999999998
+New Mexico,North Dakota,0
+New Mexico,Ohio,0.20366
+New Mexico,Oklahoma,0.00398
+New Mexico,Oregon,0.20576
+New Mexico,Pennsylvania,0
+New Mexico,Rhode Island,0
+New Mexico,South Carolina,4.13772
+New Mexico,South Dakota,0.27256
+New Mexico,Tennessee,0.00142
+New Mexico,Texas,71.50096
+New Mexico,Utah,0.2543
+New Mexico,Vermont,0.00404
+New Mexico,Virginia,0
+New Mexico,Washington,0.39002
+New Mexico,West Virginia,0
+New Mexico,Wisconsin,0.36354000000000003
+New Mexico,Wyoming,0.0234
+New York,Alabama,442.48222000000004
+New York,Arizona,7.041760000000001
+New York,Arkansas,1.8620600000000003
+New York,California,113.38355999999999
+New York,Colorado,12.95102
+New York,Connecticut,163.91516
+New York,Delaware,6.65034
+New York,Florida,53.24342
+New York,Georgia,66.29354
+New York,Idaho,0.04764
+New York,Illinois,19.66038
+New York,Indiana,19.35456
+New York,Iowa,3.1642
+New York,Kansas,49.38626000000001
+New York,Kentucky,27.986759999999997
+New York,Louisiana,9.71202
+New York,Maine,7.325740000000001
+New York,Maryland,137.21491999999998
+New York,Massachusetts,89.76491999999999
+New York,Michigan,67.42926
+New York,Minnesota,145.24952000000002
+New York,Mississippi,0.07583999999999999
+New York,Missouri,3.55218
+New York,Montana,0.06336
+New York,Nebraska,7.0514600000000005
+New York,Nevada,13.56114
+New York,New Hampshire,10.80918
+New York,New Jersey,552.98122
+New York,New Mexico,0
+New York,New York,3710.8491200000003
+New York,North Carolina,2.03866
+New York,North Dakota,0.0018800000000000002
+New York,Ohio,42.70888000000001
+New York,Oklahoma,3.8295000000000003
+New York,Oregon,1.03102
+New York,Pennsylvania,229.75464000000002
+New York,Rhode Island,9.248460000000001
+New York,South Carolina,3.03044
+New York,South Dakota,0
+New York,Tennessee,0.60114
+New York,Texas,129.72111999999998
+New York,Utah,1.3576000000000001
+New York,Vermont,18.26238
+New York,Virginia,323.00892
+New York,Washington,2.5052
+New York,West Virginia,4e-5
+New York,Wisconsin,182.34484
+New York,Wyoming,0
+North Carolina,Alabama,28.620839999999998
+North Carolina,Arizona,0
+North Carolina,Arkansas,51.834199999999996
+North Carolina,California,56.664660000000005
+North Carolina,Colorado,0.28384
+North Carolina,Connecticut,19.02124
+North Carolina,Delaware,12.66198
+North Carolina,Florida,113.20572
+North Carolina,Georgia,236.17062
+North Carolina,Idaho,0.03216
+North Carolina,Illinois,180.7022
+North Carolina,Indiana,25.74056
+North Carolina,Iowa,3.3601599999999996
+North Carolina,Kansas,2.08902
+North Carolina,Kentucky,12.8881
+North Carolina,Louisiana,17.55384
+North Carolina,Maine,25.443720000000003
+North Carolina,Maryland,49.31184
+North Carolina,Massachusetts,53.947680000000005
+North Carolina,Michigan,24.73218
+North Carolina,Minnesota,92.46812
+North Carolina,Mississippi,10.288
+North Carolina,Missouri,21.92722
+North Carolina,Montana,0.31202
+North Carolina,Nebraska,1.7662400000000003
+North Carolina,Nevada,0
+North Carolina,New Hampshire,3.52596
+North Carolina,New Jersey,56.88276
+North Carolina,New Mexico,2.95458
+North Carolina,New York,108.7112
+North Carolina,North Carolina,1848.9627400000002
+North Carolina,North Dakota,0
+North Carolina,Ohio,66.81818
+North Carolina,Oklahoma,11.38252
+North Carolina,Oregon,6.17202
+North Carolina,Pennsylvania,163.1171
+North Carolina,Rhode Island,4.6921599999999994
+North Carolina,South Carolina,79.53702000000001
+North Carolina,South Dakota,0
+North Carolina,Tennessee,98.38226
+North Carolina,Texas,133.59728
+North Carolina,Utah,0.10798
+North Carolina,Vermont,0
+North Carolina,Virginia,234.35098
+North Carolina,Washington,0.90242
+North Carolina,West Virginia,0.57078
+North Carolina,Wisconsin,17.33246
+North Carolina,Wyoming,0
+North Dakota,Alabama,2.8651400000000002
+North Dakota,Arizona,2.46582
+North Dakota,Arkansas,1.02756
+North Dakota,California,137.66684
+North Dakota,Colorado,9.978940000000001
+North Dakota,Connecticut,10.99516
+North Dakota,Delaware,0.64254
+North Dakota,Florida,15.393880000000001
+North Dakota,Georgia,26.40476
+North Dakota,Idaho,1.0981
+North Dakota,Illinois,134.64862
+North Dakota,Indiana,17.86722
+North Dakota,Iowa,12.914660000000001
+North Dakota,Kansas,3.2774799999999997
+North Dakota,Kentucky,6.06946
+North Dakota,Louisiana,0.01592
+North Dakota,Maine,0
+North Dakota,Maryland,0.98712
+North Dakota,Massachusetts,116.30406
+North Dakota,Michigan,8.11252
+North Dakota,Minnesota,276.03527999999994
+North Dakota,Mississippi,5.9999999999999995e-5
+North Dakota,Missouri,73.24665999999999
+North Dakota,Montana,13.00316
+North Dakota,Nebraska,7.749219999999999
+North Dakota,Nevada,0
+North Dakota,New Hampshire,1.4395
+North Dakota,New Jersey,11.75128
+North Dakota,New Mexico,5.49622
+North Dakota,New York,1.5364
+North Dakota,North Carolina,37.41215999999999
+North Dakota,North Dakota,2637.69224
+North Dakota,Ohio,15.54322
+North Dakota,Oklahoma,3.5096800000000004
+North Dakota,Oregon,14.482339999999999
+North Dakota,Pennsylvania,48.94336
+North Dakota,Rhode Island,0
+North Dakota,South Carolina,0.00488
+North Dakota,South Dakota,55.83122000000001
+North Dakota,Tennessee,21.094540000000002
+North Dakota,Texas,20.807040000000004
+North Dakota,Utah,1.60338
+North Dakota,Vermont,0
+North Dakota,Virginia,43.73834
+North Dakota,Washington,509.57914
+North Dakota,West Virginia,0
+North Dakota,Wisconsin,187.81959999999998
+North Dakota,Wyoming,0.02864
+Ohio,Alabama,118.13196
+Ohio,Arizona,8.00016
+Ohio,Arkansas,9.69272
+Ohio,California,44.53336
+Ohio,Colorado,2.2123799999999996
+Ohio,Connecticut,57.76598
+Ohio,Delaware,21.6375
+Ohio,Florida,25.38884
+Ohio,Georgia,170.03756
+Ohio,Idaho,20.05164
+Ohio,Illinois,109.0666
+Ohio,Indiana,515.31926
+Ohio,Iowa,5.25774
+Ohio,Kansas,37.34484
+Ohio,Kentucky,203.98784
+Ohio,Louisiana,49.11218
+Ohio,Maine,9.85382
+Ohio,Maryland,81.90870000000001
+Ohio,Massachusetts,58.835119999999996
+Ohio,Michigan,103.41087999999999
+Ohio,Minnesota,23.673840000000002
+Ohio,Mississippi,39.40268
+Ohio,Missouri,21.57852
+Ohio,Montana,3.75488
+Ohio,Nebraska,0.66866
+Ohio,Nevada,0.1689
+Ohio,New Hampshire,10.508439999999998
+Ohio,New Jersey,96.56098
+Ohio,New Mexico,0.00196
+Ohio,New York,223.29167999999999
+Ohio,North Carolina,219.346
+Ohio,North Dakota,0
+Ohio,Ohio,3271.2619
+Ohio,Oklahoma,14.4739
+Ohio,Oregon,0.0019199999999999998
+Ohio,Pennsylvania,366.25036
+Ohio,Rhode Island,3.09042
+Ohio,South Carolina,60.0674
+Ohio,South Dakota,21.53954
+Ohio,Tennessee,49.608979999999995
+Ohio,Texas,70.29792
+Ohio,Utah,3.8517400000000004
+Ohio,Vermont,1.4061
+Ohio,Virginia,213.74215999999996
+Ohio,Washington,0.06568
+Ohio,West Virginia,37.5477
+Ohio,Wisconsin,50.291700000000006
+Ohio,Wyoming,0.28816
+Oklahoma,Alabama,3.6908199999999995
+Oklahoma,Arizona,1.06994
+Oklahoma,Arkansas,109.72332000000002
+Oklahoma,California,46.57988
+Oklahoma,Colorado,5.4306600000000005
+Oklahoma,Connecticut,0
+Oklahoma,Delaware,0
+Oklahoma,Florida,10.90716
+Oklahoma,Georgia,21.0957
+Oklahoma,Idaho,1.37316
+Oklahoma,Illinois,13.91628
+Oklahoma,Indiana,2.78588
+Oklahoma,Iowa,5.29484
+Oklahoma,Kansas,210.64324000000002
+Oklahoma,Kentucky,1.08458
+Oklahoma,Louisiana,155.6017
+Oklahoma,Maine,0.09264
+Oklahoma,Maryland,0.09564
+Oklahoma,Massachusetts,0
+Oklahoma,Michigan,0.07062
+Oklahoma,Minnesota,3.3771999999999998
+Oklahoma,Mississippi,32.049260000000004
+Oklahoma,Missouri,27.179060000000003
+Oklahoma,Montana,2.6878
+Oklahoma,Nebraska,6.7645
+Oklahoma,Nevada,0.61396
+Oklahoma,New Hampshire,0
+Oklahoma,New Jersey,0.00438
+Oklahoma,New Mexico,0.67258
+Oklahoma,New York,5.38412
+Oklahoma,North Carolina,0.2662
+Oklahoma,North Dakota,0.25004
+Oklahoma,Ohio,16.48666
+Oklahoma,Oklahoma,812.8263
+Oklahoma,Oregon,3.782
+Oklahoma,Pennsylvania,0.58816
+Oklahoma,Rhode Island,0
+Oklahoma,South Carolina,2.15646
+Oklahoma,South Dakota,2.38792
+Oklahoma,Tennessee,12.26278
+Oklahoma,Texas,357.30024000000003
+Oklahoma,Utah,0.8021
+Oklahoma,Vermont,0
+Oklahoma,Virginia,0.40926
+Oklahoma,Washington,5.54972
+Oklahoma,West Virginia,0
+Oklahoma,Wisconsin,1.31348
+Oklahoma,Wyoming,0.00326
+Oregon,Alabama,1.7501200000000001
+Oregon,Arizona,7.703740000000001
+Oregon,Arkansas,1.0840999999999998
+Oregon,California,92.77822
+Oregon,Colorado,5.7979199999999995
+Oregon,Connecticut,3.02854
+Oregon,Delaware,0.05732
+Oregon,Florida,1.41978
+Oregon,Georgia,3.92542
+Oregon,Idaho,39.1581
+Oregon,Illinois,31.30716
+Oregon,Indiana,22.04636
+Oregon,Iowa,4.9753799999999995
+Oregon,Kansas,0.96752
+Oregon,Kentucky,8.75994
+Oregon,Louisiana,4.38636
+Oregon,Maine,0.057999999999999996
+Oregon,Maryland,3.67652
+Oregon,Massachusetts,3.7693
+Oregon,Michigan,0.24134000000000003
+Oregon,Minnesota,6.96384
+Oregon,Mississippi,0.9647
+Oregon,Missouri,8.01922
+Oregon,Montana,1.27128
+Oregon,Nebraska,0.19770000000000001
+Oregon,Nevada,0.66876
+Oregon,New Hampshire,0.20848
+Oregon,New Jersey,5.26556
+Oregon,New Mexico,7.4e-4
+Oregon,New York,9.828199999999999
+Oregon,North Carolina,9.9655
+Oregon,North Dakota,1.68744
+Oregon,Ohio,21.42394
+Oregon,Oklahoma,1.9304
+Oregon,Oregon,1037.18066
+Oregon,Pennsylvania,15.19736
+Oregon,Rhode Island,0.26098
+Oregon,South Carolina,8e-5
+Oregon,South Dakota,0.0033
+Oregon,Tennessee,6.60392
+Oregon,Texas,8.09676
+Oregon,Utah,8.03124
+Oregon,Vermont,0
+Oregon,Virginia,3.75
+Oregon,Washington,374.89043999999996
+Oregon,West Virginia,0
+Oregon,Wisconsin,5.73498
+Oregon,Wyoming,0
+Pennsylvania,Alabama,22.98304
+Pennsylvania,Arizona,7.728020000000001
+Pennsylvania,Arkansas,12.58732
+Pennsylvania,California,33.30216
+Pennsylvania,Colorado,7.47972
+Pennsylvania,Connecticut,43.844260000000006
+Pennsylvania,Delaware,43.38464
+Pennsylvania,Florida,60.00843999999999
+Pennsylvania,Georgia,22.3173
+Pennsylvania,Idaho,0.23632
+Pennsylvania,Illinois,22.02982
+Pennsylvania,Indiana,11.7555
+Pennsylvania,Iowa,19.19176
+Pennsylvania,Kansas,3.4352199999999997
+Pennsylvania,Kentucky,2.3371000000000004
+Pennsylvania,Louisiana,3.5127199999999994
+Pennsylvania,Maine,30.1321
+Pennsylvania,Maryland,215.93344000000002
+Pennsylvania,Massachusetts,82.58272000000001
+Pennsylvania,Michigan,20.0306
+Pennsylvania,Minnesota,4.53662
+Pennsylvania,Mississippi,1.8054199999999998
+Pennsylvania,Missouri,2.1523
+Pennsylvania,Montana,0
+Pennsylvania,Nebraska,1.8939800000000002
+Pennsylvania,Nevada,25.28642
+Pennsylvania,New Hampshire,15.401119999999997
+Pennsylvania,New Jersey,371.81712000000005
+Pennsylvania,New Mexico,0
+Pennsylvania,New York,432.83230000000003
+Pennsylvania,North Carolina,111.99686
+Pennsylvania,North Dakota,0
+Pennsylvania,Ohio,273.96532
+Pennsylvania,Oklahoma,0.19826
+Pennsylvania,Oregon,0.6906399999999999
+Pennsylvania,Pennsylvania,2270.5961199999997
+Pennsylvania,Rhode Island,11.36508
+Pennsylvania,South Carolina,6.90908
+Pennsylvania,South Dakota,0.9210800000000001
+Pennsylvania,Tennessee,3.4756799999999997
+Pennsylvania,Texas,26.359299999999998
+Pennsylvania,Utah,1.5097
+Pennsylvania,Vermont,23.7245
+Pennsylvania,Virginia,79.04118000000001
+Pennsylvania,Washington,1.6004999999999998
+Pennsylvania,West Virginia,11.09014
+Pennsylvania,Wisconsin,8.59078
+Pennsylvania,Wyoming,0
+Rhode Island,Alabama,0
+Rhode Island,Arizona,0
+Rhode Island,Arkansas,0
+Rhode Island,California,0.64916
+Rhode Island,Colorado,0
+Rhode Island,Connecticut,15.30942
+Rhode Island,Delaware,0
+Rhode Island,Florida,0.5200400000000001
+Rhode Island,Georgia,0.044340000000000004
+Rhode Island,Idaho,0
+Rhode Island,Illinois,0.07242
+Rhode Island,Indiana,0
+Rhode Island,Iowa,0
+Rhode Island,Kansas,0
+Rhode Island,Kentucky,0
+Rhode Island,Louisiana,0.72292
+Rhode Island,Maine,11.068079999999998
+Rhode Island,Maryland,0.28737999999999997
+Rhode Island,Massachusetts,33.29164
+Rhode Island,Michigan,0
+Rhode Island,Minnesota,0
+Rhode Island,Mississippi,0.23984
+Rhode Island,Missouri,0
+Rhode Island,Montana,0
+Rhode Island,Nebraska,0
+Rhode Island,Nevada,0
+Rhode Island,New Hampshire,0.53166
+Rhode Island,New Jersey,15.26412
+Rhode Island,New Mexico,0
+Rhode Island,New York,33.98929999999999
+Rhode Island,North Carolina,0.24222000000000002
+Rhode Island,North Dakota,0
+Rhode Island,Ohio,0.0026
+Rhode Island,Oklahoma,0
+Rhode Island,Oregon,0
+Rhode Island,Pennsylvania,0.71984
+Rhode Island,Rhode Island,29.65908
+Rhode Island,South Carolina,0
+Rhode Island,South Dakota,0
+Rhode Island,Tennessee,0
+Rhode Island,Texas,0
+Rhode Island,Utah,0
+Rhode Island,Vermont,0.17837999999999998
+Rhode Island,Virginia,0.72546
+Rhode Island,Washington,0
+Rhode Island,West Virginia,0
+Rhode Island,Wisconsin,0
+Rhode Island,Wyoming,0
+South Carolina,Alabama,9.558119999999999
+South Carolina,Arizona,0
+South Carolina,Arkansas,0
+South Carolina,California,6.07094
+South Carolina,Colorado,0.011899999999999999
+South Carolina,Connecticut,3.06368
+South Carolina,Delaware,2.39822
+South Carolina,Florida,52.893119999999996
+South Carolina,Georgia,109.28286
+South Carolina,Idaho,0
+South Carolina,Illinois,19.75406
+South Carolina,Indiana,8.1045
+South Carolina,Iowa,12.60114
+South Carolina,Kansas,0.6564
+South Carolina,Kentucky,0.67748
+South Carolina,Louisiana,1.42254
+South Carolina,Maine,0
+South Carolina,Maryland,4.3931
+South Carolina,Massachusetts,8.9746
+South Carolina,Michigan,1.0041
+South Carolina,Minnesota,4.11482
+South Carolina,Mississippi,6.21634
+South Carolina,Missouri,6.646939999999999
+South Carolina,Montana,0.00256
+South Carolina,Nebraska,2.66436
+South Carolina,Nevada,1.1999999999999999e-4
+South Carolina,New Hampshire,0
+South Carolina,New Jersey,5.98006
+South Carolina,New Mexico,0.18748
+South Carolina,New York,23.58092
+South Carolina,North Carolina,139.17446
+South Carolina,North Dakota,0
+South Carolina,Ohio,9.0081
+South Carolina,Oklahoma,0.33586
+South Carolina,Oregon,0.43384
+South Carolina,Pennsylvania,33.006640000000004
+South Carolina,Rhode Island,1.9278599999999997
+South Carolina,South Carolina,445.62212
+South Carolina,South Dakota,0
+South Carolina,Tennessee,18.555419999999998
+South Carolina,Texas,14.04922
+South Carolina,Utah,0
+South Carolina,Vermont,0
+South Carolina,Virginia,31.659879999999998
+South Carolina,Washington,0.00534
+South Carolina,West Virginia,0
+South Carolina,Wisconsin,13.107560000000001
+South Carolina,Wyoming,0
+South Dakota,Alabama,0
+South Dakota,Arizona,19.12046
+South Dakota,Arkansas,0
+South Dakota,California,46.72580000000001
+South Dakota,Colorado,5.635420000000001
+South Dakota,Connecticut,0
+South Dakota,Delaware,0
+South Dakota,Florida,1.14426
+South Dakota,Georgia,5.0587800000000005
+South Dakota,Idaho,2.58968
+South Dakota,Illinois,248.48798000000002
+South Dakota,Indiana,42.75638
+South Dakota,Iowa,227.9058
+South Dakota,Kansas,18.3934
+South Dakota,Kentucky,0
+South Dakota,Louisiana,0.38498
+South Dakota,Maine,0
+South Dakota,Maryland,3.9458599999999997
+South Dakota,Massachusetts,7.108359999999999
+South Dakota,Michigan,7.807340000000001
+South Dakota,Minnesota,241.77326
+South Dakota,Mississippi,2.16304
+South Dakota,Missouri,50.278580000000005
+South Dakota,Montana,3.08076
+South Dakota,Nebraska,217.13004
+South Dakota,Nevada,0
+South Dakota,New Hampshire,0
+South Dakota,New Jersey,4.27986
+South Dakota,New Mexico,0
+South Dakota,New York,11.350919999999999
+South Dakota,North Carolina,146.54407999999998
+South Dakota,North Dakota,124.87147999999998
+South Dakota,Ohio,17.59292
+South Dakota,Oklahoma,4.17322
+South Dakota,Oregon,5.8997
+South Dakota,Pennsylvania,18.24546
+South Dakota,Rhode Island,0.0479
+South Dakota,South Carolina,41.88202
+South Dakota,South Dakota,2687.7897000000003
+South Dakota,Tennessee,0
+South Dakota,Texas,72.72634000000001
+South Dakota,Utah,12.7845
+South Dakota,Vermont,0.5379400000000001
+South Dakota,Virginia,2.14146
+South Dakota,Washington,159.92220000000003
+South Dakota,West Virginia,0
+South Dakota,Wisconsin,10.67194
+South Dakota,Wyoming,0.50702
+Tennessee,Alabama,160.51302
+Tennessee,Arizona,1.33504
+Tennessee,Arkansas,37.440780000000004
+Tennessee,California,13.75254
+Tennessee,Colorado,1.1163599999999998
+Tennessee,Connecticut,6.16418
+Tennessee,Delaware,2.0832800000000002
+Tennessee,Florida,101.52448000000001
+Tennessee,Georgia,215.72088
+Tennessee,Idaho,2.2129000000000003
+Tennessee,Illinois,81.39878000000002
+Tennessee,Indiana,87.72636
+Tennessee,Iowa,1.0353400000000001
+Tennessee,Kansas,16.30618
+Tennessee,Kentucky,198.25992000000002
+Tennessee,Louisiana,289.4122
+Tennessee,Maine,3.27958
+Tennessee,Maryland,2.9062399999999995
+Tennessee,Massachusetts,10.52864
+Tennessee,Michigan,31.198919999999998
+Tennessee,Minnesota,6.485079999999999
+Tennessee,Mississippi,45.08162
+Tennessee,Missouri,17.118940000000002
+Tennessee,Montana,0
+Tennessee,Nebraska,1.18676
+Tennessee,Nevada,0.25306
+Tennessee,New Hampshire,0
+Tennessee,New Jersey,14.5665
+Tennessee,New Mexico,0
+Tennessee,New York,9.712720000000001
+Tennessee,North Carolina,56.25918
+Tennessee,North Dakota,0
+Tennessee,Ohio,43.235640000000004
+Tennessee,Oklahoma,13.2644
+Tennessee,Oregon,16.13738
+Tennessee,Pennsylvania,37.05482
+Tennessee,Rhode Island,0
+Tennessee,South Carolina,25.397280000000002
+Tennessee,South Dakota,0
+Tennessee,Tennessee,908.4754399999999
+Tennessee,Texas,38.53492
+Tennessee,Utah,11.83624
+Tennessee,Vermont,2.08582
+Tennessee,Virginia,62.96725999999999
+Tennessee,Washington,2.10596
+Tennessee,West Virginia,0.29716
+Tennessee,Wisconsin,39.667500000000004
+Tennessee,Wyoming,0.0016400000000000002
+Texas,Alabama,58.78399999999999
+Texas,Arizona,109.74198000000001
+Texas,Arkansas,111.66432
+Texas,California,483.01959999999997
+Texas,Colorado,31.89754
+Texas,Connecticut,17.17064
+Texas,Delaware,0.4236
+Texas,Florida,220.72379999999998
+Texas,Georgia,212.5612
+Texas,Idaho,15.708359999999999
+Texas,Illinois,204.17886
+Texas,Indiana,30.390719999999998
+Texas,Iowa,28.977480000000003
+Texas,Kansas,227.65924
+Texas,Kentucky,27.2409
+Texas,Louisiana,295.02852
+Texas,Maine,0
+Texas,Maryland,30.40972
+Texas,Massachusetts,29.883759999999995
+Texas,Michigan,95.4775
+Texas,Minnesota,31.335259999999998
+Texas,Mississippi,27.870440000000002
+Texas,Missouri,35.865500000000004
+Texas,Montana,52.870140000000006
+Texas,Nebraska,68.08385999999999
+Texas,Nevada,0.25192000000000003
+Texas,New Hampshire,0.0659
+Texas,New Jersey,63.65612
+Texas,New Mexico,112.5741
+Texas,New York,86.11202
+Texas,North Carolina,80.87134
+Texas,North Dakota,2.81116
+Texas,Ohio,67.00506
+Texas,Oklahoma,303.64168
+Texas,Oregon,28.30976
+Texas,Pennsylvania,123.41951999999999
+Texas,Rhode Island,0
+Texas,South Carolina,30.98562
+Texas,South Dakota,6.8006
+Texas,Tennessee,217.15659999999997
+Texas,Texas,7410.34286
+Texas,Utah,11.8388
+Texas,Vermont,0
+Texas,Virginia,63.30236
+Texas,Washington,25.41824
+Texas,West Virginia,0
+Texas,Wisconsin,38.04024
+Texas,Wyoming,16.05442
+Utah,Alabama,0.00194
+Utah,Arizona,26.67664
+Utah,Arkansas,0.27359999999999995
+Utah,California,133.61947999999998
+Utah,Colorado,5.68268
+Utah,Connecticut,0.0066
+Utah,Delaware,6.47184
+Utah,Florida,4.9232
+Utah,Georgia,10.89384
+Utah,Idaho,51.12050000000001
+Utah,Illinois,25.2505
+Utah,Indiana,2.2898
+Utah,Iowa,3.6647600000000002
+Utah,Kansas,0.78214
+Utah,Kentucky,0.6632399999999999
+Utah,Louisiana,4.7573
+Utah,Maine,0
+Utah,Maryland,13.04708
+Utah,Massachusetts,22.96952
+Utah,Michigan,17.60626
+Utah,Minnesota,0
+Utah,Mississippi,0.01484
+Utah,Missouri,4.3889
+Utah,Montana,6.800399999999999
+Utah,Nebraska,1.2745
+Utah,Nevada,26.960860000000004
+Utah,New Hampshire,0
+Utah,New Jersey,0
+Utah,New Mexico,4.8625799999999995
+Utah,New York,7.90934
+Utah,North Carolina,4.9188
+Utah,North Dakota,0.06584
+Utah,Ohio,8.5111
+Utah,Oklahoma,4.792039999999999
+Utah,Oregon,17.196199999999997
+Utah,Pennsylvania,22.89412
+Utah,Rhode Island,0
+Utah,South Carolina,10.056059999999999
+Utah,South Dakota,1.01722
+Utah,Tennessee,1.8110600000000001
+Utah,Texas,27.52326
+Utah,Utah,158.80234000000002
+Utah,Vermont,0.18414
+Utah,Virginia,1.8580999999999999
+Utah,Washington,27.937900000000003
+Utah,West Virginia,0.02368
+Utah,Wisconsin,3.1955999999999998
+Utah,Wyoming,9.5572
+Vermont,Alabama,0
+Vermont,Arizona,0
+Vermont,Arkansas,0
+Vermont,California,0
+Vermont,Colorado,0
+Vermont,Connecticut,0.91646
+Vermont,Delaware,0
+Vermont,Florida,0
+Vermont,Georgia,0
+Vermont,Idaho,0
+Vermont,Illinois,0
+Vermont,Indiana,0
+Vermont,Iowa,0
+Vermont,Kansas,0
+Vermont,Kentucky,0
+Vermont,Louisiana,0
+Vermont,Maine,3.99578
+Vermont,Maryland,0.45508
+Vermont,Massachusetts,1.56722
+Vermont,Michigan,0.0010999999999999998
+Vermont,Minnesota,0
+Vermont,Mississippi,0
+Vermont,Missouri,0
+Vermont,Montana,0
+Vermont,Nebraska,0
+Vermont,Nevada,0
+Vermont,New Hampshire,4.44294
+Vermont,New Jersey,0
+Vermont,New Mexico,0
+Vermont,New York,24.87432
+Vermont,North Carolina,0
+Vermont,North Dakota,0
+Vermont,Ohio,0.00294
+Vermont,Oklahoma,0
+Vermont,Oregon,0
+Vermont,Pennsylvania,14.725660000000001
+Vermont,Rhode Island,0.028300000000000002
+Vermont,South Carolina,0
+Vermont,South Dakota,0
+Vermont,Tennessee,0
+Vermont,Texas,0
+Vermont,Utah,0
+Vermont,Vermont,111.69698000000001
+Vermont,Virginia,1.60736
+Vermont,Washington,0
+Vermont,West Virginia,0
+Vermont,Wisconsin,0
+Vermont,Wyoming,0
+Virginia,Alabama,16.891939999999998
+Virginia,Arizona,6.1698
+Virginia,Arkansas,9.59682
+Virginia,California,5.846439999999999
+Virginia,Colorado,5.69632
+Virginia,Connecticut,19.39172
+Virginia,Delaware,21.7214
+Virginia,Florida,29.45628
+Virginia,Georgia,42.60628
+Virginia,Idaho,0
+Virginia,Illinois,35.1793
+Virginia,Indiana,4.86888
+Virginia,Iowa,1.8288799999999998
+Virginia,Kansas,2.6575800000000003
+Virginia,Kentucky,13.9381
+Virginia,Louisiana,0.18592
+Virginia,Maine,1.7304000000000002
+Virginia,Maryland,91.88436
+Virginia,Massachusetts,30.54502
+Virginia,Michigan,16.53142
+Virginia,Minnesota,4.42624
+Virginia,Mississippi,8.33942
+Virginia,Missouri,8.01756
+Virginia,Montana,0.80386
+Virginia,Nebraska,1.36422
+Virginia,Nevada,2.0739
+Virginia,New Hampshire,2.06464
+Virginia,New Jersey,49.0837
+Virginia,New Mexico,0.21474000000000001
+Virginia,New York,39.50738
+Virginia,North Carolina,230.41338000000002
+Virginia,North Dakota,0
+Virginia,Ohio,25.01232
+Virginia,Oklahoma,0.18109999999999998
+Virginia,Oregon,0.9107800000000001
+Virginia,Pennsylvania,50.881820000000005
+Virginia,Rhode Island,0.649
+Virginia,South Carolina,24.7957
+Virginia,South Dakota,0.03372
+Virginia,Tennessee,27.991480000000003
+Virginia,Texas,23.105999999999998
+Virginia,Utah,0.61426
+Virginia,Vermont,0
+Virginia,Virginia,1004.2933
+Virginia,Washington,2.64846
+Virginia,West Virginia,23.650219999999997
+Virginia,Wisconsin,5.97414
+Virginia,Wyoming,0
+Washington,Alabama,0.53432
+Washington,Arizona,6.17034
+Washington,Arkansas,7.99282
+Washington,California,221.18486000000001
+Washington,Colorado,12.00238
+Washington,Connecticut,0.0015
+Washington,Delaware,30.1445
+Washington,Florida,51.892959999999995
+Washington,Georgia,6.619720000000001
+Washington,Idaho,21.91776
+Washington,Illinois,15.67858
+Washington,Indiana,5.78732
+Washington,Iowa,7.69476
+Washington,Kansas,9.49192
+Washington,Kentucky,3.39758
+Washington,Louisiana,1.9935800000000001
+Washington,Maine,0.7195
+Washington,Maryland,16.35196
+Washington,Massachusetts,7.272880000000001
+Washington,Michigan,7.42748
+Washington,Minnesota,6.78586
+Washington,Mississippi,0.31883999999999996
+Washington,Missouri,4.0486
+Washington,Montana,21.97868
+Washington,Nebraska,5.66704
+Washington,Nevada,1.8531199999999999
+Washington,New Hampshire,3.16086
+Washington,New Jersey,16.859659999999998
+Washington,New Mexico,0.21150000000000002
+Washington,New York,33.01092
+Washington,North Carolina,6.5354
+Washington,North Dakota,0.06570000000000001
+Washington,Ohio,7.553839999999999
+Washington,Oklahoma,2.76312
+Washington,Oregon,317.96336
+Washington,Pennsylvania,16.17714
+Washington,Rhode Island,0.36926000000000003
+Washington,South Carolina,0.042120000000000005
+Washington,South Dakota,0.20354
+Washington,Tennessee,16.31866
+Washington,Texas,42.83792
+Washington,Utah,20.93076
+Washington,Vermont,0.1262
+Washington,Virginia,2.97744
+Washington,Washington,2605.1706
+Washington,West Virginia,0
+Washington,Wisconsin,14.066820000000002
+Washington,Wyoming,1.22446
+West Virginia,Alabama,0
+West Virginia,Arizona,0
+West Virginia,Arkansas,0
+West Virginia,California,0
+West Virginia,Colorado,0
+West Virginia,Connecticut,0
+West Virginia,Delaware,0.16804000000000002
+West Virginia,Florida,0
+West Virginia,Georgia,2.84398
+West Virginia,Idaho,0
+West Virginia,Illinois,1.8098199999999998
+West Virginia,Indiana,0
+West Virginia,Iowa,0
+West Virginia,Kansas,0
+West Virginia,Kentucky,3.01046
+West Virginia,Louisiana,0
+West Virginia,Maine,3.0655200000000002
+West Virginia,Maryland,12.735700000000001
+West Virginia,Massachusetts,0
+West Virginia,Michigan,0.45366
+West Virginia,Minnesota,0
+West Virginia,Mississippi,0
+West Virginia,Missouri,0
+West Virginia,Montana,0
+West Virginia,Nebraska,0
+West Virginia,Nevada,0
+West Virginia,New Hampshire,1.181
+West Virginia,New Jersey,13.75158
+West Virginia,New Mexico,0
+West Virginia,New York,6.40034
+West Virginia,North Carolina,0
+West Virginia,North Dakota,0
+West Virginia,Ohio,6.2675
+West Virginia,Oklahoma,0
+West Virginia,Oregon,0
+West Virginia,Pennsylvania,7.311579999999999
+West Virginia,Rhode Island,0
+West Virginia,South Carolina,1.15616
+West Virginia,South Dakota,0
+West Virginia,Tennessee,1.1317000000000002
+West Virginia,Texas,0
+West Virginia,Utah,0
+West Virginia,Vermont,0
+West Virginia,Virginia,13.252139999999997
+West Virginia,Washington,0
+West Virginia,West Virginia,41.97478
+West Virginia,Wisconsin,0
+West Virginia,Wyoming,0
+Wisconsin,Alabama,6.8144599999999995
+Wisconsin,Arizona,23.37568
+Wisconsin,Arkansas,11.055180000000002
+Wisconsin,California,134.11072000000001
+Wisconsin,Colorado,18.122980000000002
+Wisconsin,Connecticut,13.511620000000002
+Wisconsin,Delaware,0.00892
+Wisconsin,Florida,128.87268
+Wisconsin,Georgia,67.35976000000001
+Wisconsin,Idaho,29.011919999999996
+Wisconsin,Illinois,581.7959800000001
+Wisconsin,Indiana,92.71276
+Wisconsin,Iowa,220.90412
+Wisconsin,Kansas,30.252419999999994
+Wisconsin,Kentucky,34.69934000000001
+Wisconsin,Louisiana,1.55136
+Wisconsin,Maine,6.4908600000000005
+Wisconsin,Maryland,19.298899999999996
+Wisconsin,Massachusetts,50.709360000000004
+Wisconsin,Michigan,125.04362
+Wisconsin,Minnesota,188.49702000000002
+Wisconsin,Mississippi,10.58426
+Wisconsin,Missouri,27.010160000000003
+Wisconsin,Montana,4.76534
+Wisconsin,Nebraska,31.758900000000004
+Wisconsin,Nevada,4.1517
+Wisconsin,New Hampshire,1.50582
+Wisconsin,New Jersey,22.76576
+Wisconsin,New Mexico,23.68636
+Wisconsin,New York,89.36890000000001
+Wisconsin,North Carolina,11.22218
+Wisconsin,North Dakota,4.87676
+Wisconsin,Ohio,93.61012
+Wisconsin,Oklahoma,8.34464
+Wisconsin,Oregon,27.61714
+Wisconsin,Pennsylvania,190.07382
+Wisconsin,Rhode Island,1.61508
+Wisconsin,South Carolina,6.055280000000001
+Wisconsin,South Dakota,4.31602
+Wisconsin,Tennessee,20.319139999999997
+Wisconsin,Texas,86.6398
+Wisconsin,Utah,3.71674
+Wisconsin,Vermont,7.2892399999999995
+Wisconsin,Virginia,20.05006
+Wisconsin,Washington,18.87556
+Wisconsin,West Virginia,0
+Wisconsin,Wisconsin,2233.30936
+Wisconsin,Wyoming,0.26589999999999997
+Wyoming,Alabama,0
+Wyoming,Arizona,0
+Wyoming,Arkansas,0.483
+Wyoming,California,0.21142
+Wyoming,Colorado,8.70634
+Wyoming,Connecticut,0
+Wyoming,Delaware,0
+Wyoming,Florida,0.922
+Wyoming,Georgia,0
+Wyoming,Idaho,0.56804
+Wyoming,Illinois,0.30934
+Wyoming,Indiana,0
+Wyoming,Iowa,0
+Wyoming,Kansas,0
+Wyoming,Kentucky,0
+Wyoming,Louisiana,0
+Wyoming,Maine,0
+Wyoming,Maryland,0
+Wyoming,Massachusetts,0
+Wyoming,Michigan,0
+Wyoming,Minnesota,2.7373000000000003
+Wyoming,Mississippi,0
+Wyoming,Missouri,0
+Wyoming,Montana,7.460299999999999
+Wyoming,Nebraska,8.397479999999998
+Wyoming,Nevada,0
+Wyoming,New Hampshire,0
+Wyoming,New Jersey,0.43392
+Wyoming,New Mexico,0
+Wyoming,New York,0
+Wyoming,North Carolina,0
+Wyoming,North Dakota,0.35710000000000003
+Wyoming,Ohio,0
+Wyoming,Oklahoma,0.03864
+Wyoming,Oregon,0
+Wyoming,Pennsylvania,0
+Wyoming,Rhode Island,0
+Wyoming,South Carolina,0
+Wyoming,South Dakota,0.0037199999999999998
+Wyoming,Tennessee,0
+Wyoming,Texas,0
+Wyoming,Utah,0
+Wyoming,Vermont,0
+Wyoming,Virginia,0
+Wyoming,Washington,1.00618
+Wyoming,West Virginia,0
+Wyoming,Wisconsin,0
+Wyoming,Wyoming,61.86099999999999
