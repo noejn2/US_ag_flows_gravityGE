@@ -14,6 +14,7 @@ options(shiny.minified = TRUE)
 # Source module scripts & utilities
 files <- list.files("R", pattern = "\\.R$", full.names = TRUE)
 files <- c(files, list.files("R/utils", pattern = "\\.R$", full.names = TRUE))
+files <- c(files, list.files("R/plots", pattern = "\\.R$", full.names = TRUE))
 sapply(files, source)
 
 # Load shapefile and extract state names and initials
@@ -159,6 +160,15 @@ ui <- shiny::fluidPage(
     # Tab for Simulation Parameters
     shiny::tabPanel(
       "Simulation Parameters",
+      shiny::fluidRow(
+        shiny::column(
+          width = 2,
+          shiny::div(
+            style = "text-align: left; font-size: 18px; font-weight: bold; margin-bottom: 10px;",
+            "Simulation helper"
+          )
+        )
+      ),
       parameters_ui("simulation_parameters") # UI for simulation parameters module
     ),
 
@@ -170,8 +180,15 @@ ui <- shiny::fluidPage(
           shiny::h1("About the Tool"),
           shiny::p(
             style = "font-size: 16px;",
-            "The US Domestic Agricultural Trade tool is an interactive Shiny application designed to analyze and visualize agricultural trade flows between US states.
-        It allows users to explore trade data, simulate trade scenarios, and assess welfare effects using a gravity model framework. While the model is described in the published paper, the data can be thoroughly explored using the National Transportation Research Center's Freight Analysis Framework Version 5 (FAF5)."
+            "The US Domestic Agricultural Trade tool is an interactive Shiny application designed to analyze and visualize agricultural trade flows between US states. The tool is designed to provide insights into the determinants of state vulnerabilities to production shocks and supply chain disruptions in the US food system."
+          ),
+          shiny::p(
+            style = "font-size: 16px;",
+            "It allows users to explore trade data, simulate trade scenarios, and assess welfare effects using a gravity model framework. While the model is described in the published paper, the data can be thoroughly explored using the National Transportation Research Center's Freight Analysis Framework Version 5 (FAF5). The data is based on the 2017 Census of Agriculture and the 2017 Economic Census, which are the most recent available datasets. The trade flows are aggregated to the state level, and the model allows for dynamic state selection and focus pool management."
+          ),
+          shiny::p(
+            style = "font-size: 16px;",
+            "Following the documentation, the agricultural trade flows represent all crop commodities considered in SCTG 02 and SCTG 03."
           ),
           shiny::p(
             style = "font-size: 16px;",
@@ -198,6 +215,40 @@ ui <- shiny::fluidPage(
               "Visualization of welfare effects and trade flow data."
             )
           ),
+          shiny::h2("Instructions"),
+          shiny::p(
+            style = "font-size: 16px;",
+            "To use this tool effectively, please note the following:"
+          ),
+          shiny::p(
+            style = "font-size: 16px;",
+            "A step-by-step tutorial can be found here: ",
+            shiny::tags$a(
+              href = "https://github.com/noejn2/US_ag_flows_gravityGE",
+              target = "_blank",
+              "https://github.com/noejn2/US_ag_flows_gravityGE"
+            )
+          ),
+          shiny::tags$ul(
+            style = "font-size: 16px;",
+            shiny::tags$li(
+              "Navigate through the tabs to explore trade flow visualizations, welfare effects, and simulation parameters."
+            ),
+            shiny::tags$li(
+              "Simulation parameters represent percentage changes. Ensure that you input values as percentages (e.g., 10 indicates a 10% increase and -10 indicates a 10% decrease)."
+            ),
+            shiny::tags$li(
+              "Use the focus pool to select up to 8 states for detailed analysis."
+            ),
+            shiny::tags$li(
+              "Click 'Run Simulation' to execute the model and view the updated results."
+            )
+          ),
+          shiny::p(
+            style = "font-size: 16px;",
+            "The default simulation is instructive: it models the 2012 drought that reduced agricultural productivity by 50% in Arizona, California, Colorado, Nevada, New Mexico, and Utah. These states are pre-selected in the focus pool, and the simulation demonstrates the impact of a major supply shock on US domestic agricultural trade and welfare."
+          ),
+          shiny::h2("Authorship"),
           shiny::p(
             style = "font-size: 16px;",
             "This tool is based on the methodology and findings presented in the published paper: "
@@ -205,9 +256,7 @@ ui <- shiny::fluidPage(
           shiny::tags$blockquote(
             style = "font-size: 16px;",
             shiny::tags$em(
-              "\"A model of the U.S. food system: What are the determinants
-of the state vulnerabilities to production shocks and supply
-chain disruptions?\" by Noé J Nava, William Ridley, and Sandy Dall'Erba, published in Agricultural Economics."
+              '"A model of the U.S. food system: What are the determinants\nof the state vulnerabilities to production shocks and supply\nchain disruptions?" by Noé J Nava, William Ridley, and Sandy Dall\'Erba, published in Agricultural Economics.'
             )
           ),
           shiny::p(
@@ -227,26 +276,6 @@ chain disruptions?\" by Noé J Nava, William Ridley, and Sandy Dall'Erba, publis
               "noejnava2@gmail.com"
             ),
             "."
-          ),
-          shiny::h2("Instructions"),
-          shiny::p(
-            style = "font-size: 16px;",
-            "To use this tool effectively, please note the following:"
-          ),
-          shiny::tags$ul(
-            style = "font-size: 16px;",
-            shiny::tags$li(
-              "Navigate through the tabs to explore trade flow visualizations, welfare effects, and simulation parameters."
-            ),
-            shiny::tags$li(
-              "Simulation parameters represent percentage changes. Ensure that you input values as percentages (e.g., 10 indicates a 10% increase and -10 indicates a 10% decrease)."
-            ),
-            shiny::tags$li(
-              "Use the focus pool to select up to 8 states for detailed analysis."
-            ),
-            shiny::tags$li(
-              "Click 'Run Simulation' to execute the model and view the updated results."
-            )
           )
         )
       )
