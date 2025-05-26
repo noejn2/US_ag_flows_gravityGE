@@ -90,8 +90,6 @@ parameters_server <- function(
         destination <- input$destination_shock
         value <- input$trade_slider
         if (!is.null(origin) && !is.null(destination)) {
-          browser()
-
           # Support both initials and full state names
           i <- which(statesINI_list == origin | state_names() == origin)
           j <- which(
