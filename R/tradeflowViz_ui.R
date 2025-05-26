@@ -48,8 +48,14 @@ tradeflowViz_ui <- function(id) {
             # First row for two figure panels with titles
             shiny::column(
                 width = 7,
-                chorddiag::chorddiagOutput(ns("right"), height = "600px") # Use chorddiagOutput for the right plot
-                # shiny::h4("Baseline"),
+                chorddiag::chorddiagOutput(ns("chord"), height = "600px"),
+                shiny::div(
+                    style = "margin-top: 10px;",
+                    shiny::downloadButton(
+                        ns("download_chord_png"),
+                        "Download Chord Diagram (PNG)"
+                    )
+                )
             ),
             shiny::column(
                 width = 5,

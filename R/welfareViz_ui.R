@@ -19,19 +19,33 @@ welfareViz_ui <- function(id) {
             shiny::column(
                 width = 6,
                 shiny::plotOutput(
-                    ns("figure1"),
+                    ns("map"),
                     height = "500px",
                     width = "100%",
-                    click = ns("figure1_click")
-                ) # Full-size Figure 1
+                    click = ns("map_click")
+                ),
+                shiny::div(
+                    style = "margin-top: 10px;",
+                    shiny::downloadButton(
+                        ns("download_map_png"),
+                        "Download Map (PNG)"
+                    )
+                )
             ),
             shiny::column(
                 width = 6,
                 shiny::plotOutput(
-                    ns("figure2"),
+                    ns("bars"),
                     height = "500px",
                     width = "100%"
-                ) # Full-size Figure 2
+                ),
+                shiny::div(
+                    style = "margin-top: 10px;",
+                    shiny::downloadButton(
+                        ns("download_bar_png"),
+                        "Download Bar Plot (PNG)"
+                    )
+                )
             )
         ),
         shiny::fluidRow(

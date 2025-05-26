@@ -8,15 +8,6 @@ tradeflowViz_server <- function(
     moduleServer(id, function(input, output, session) {
         ns <- session$ns
 
-        # Calculating net trade
-        netTrade <- function(x) {
-            n <- x
-            n[lower.tri(n)] <- x[lower.tri(x)] - x[upper.tri(x)]
-            n[upper.tri(n)] <- x[upper.tri(x)] - x[lower.tri(x)]
-            n[n < 0] <- 0
-            n
-        }
-
         # Initialize plotting data
         plotting_values <- shiny::reactiveVal(NULL)
 
@@ -98,7 +89,14 @@ tradeflowViz_server <- function(
         # Add summary_table output
         output$summary_table <- DT::renderDT({
             req(focus_pool(), plotting_values())
+
             summary_data_plotting <- plotting_values()
+
+            if (!baseline_simulation()) {
+                summary_data_plotting <- summary_data_plotting %>%
+                    dplyr::select(!Trade) %>%
+                    dplyr::rename(Trade = simTrade)
+            }
 
             # create self trade column
             firstpart <- summary_data_plotting %>%
@@ -270,116 +268,57 @@ tradeflowViz_server <- function(
             )
         })
 
-        output$right <- chorddiag::renderChorddiag({
-            req(focus_pool(), plotting_values())
-
-            trade_data_plotting <- plotting_values()
-
-            trade_data_plotting$Origin[
-                !trade_data_plotting$Origin %in% focus_pool()
-            ] <- "Other"
-            trade_data_plotting$Destination[
-                !trade_data_plotting$Destination %in% focus_pool()
-            ] <- "Other"
-
-            # Define color palette: 8 distinct colors + 1 for 'Other'
-            color_palette <- c(
-                "#1b9e77", # green
-                "#d95f02", # orange
-                "#7570b3", # purple
-                "#e7298a", # pink
-                "#66a61e", # olive
-                "#e6ab02", # yellow
-                "#a6761d", # brown
-                "#666666", # gray
-                "#cccccc" # light gray for 'Other'
+        output$chord <- chorddiag::renderChorddiag({
+            req(
+                focus_pool(),
+                plotting_values()
             )
 
-            # Get unique regions (up to 8) and always put 'Other' last
-            unique_regions <- unique(c(
-                trade_data_plotting$Origin,
-                trade_data_plotting$Destination
-            ))
-            unique_regions <- unique_regions[unique_regions != "Other"]
-            # unique_regions <- head(unique_regions, 8)
-            region_levels <- c(unique_regions, "Other")
-
-            # Set factor levels to ensure color mapping is consistent
-            trade_data_plotting$Origin <- factor(
-                trade_data_plotting$Origin,
-                levels = region_levels
+            chord_flows(
+                plotting_values = plotting_values(),
+                focus_pool = focus_pool(),
+                other_selection = other_selection(),
+                net_exports = net_exports(),
+                self_selection = self_selection()
             )
-            trade_data_plotting$Destination <- factor(
-                trade_data_plotting$Destination,
-                levels = region_levels
-            )
-
-            trade_data_plotting <- trade_data_plotting %>%
-                dplyr::group_by(Origin, Destination) %>%
-                dplyr::summarise(
-                    Trade = sum(Trade),
-                    simTrade = sum(simTrade)
-                ) %>%
-                dplyr::ungroup()
-
-            trade_data_plotting <- trade_data_plotting %>%
-                dplyr::select(
-                    Origin,
-                    Destination,
-                    Trade,
-                    simTrade
-                ) %>%
-                dplyr::group_by(Origin, Destination) %>%
-                dplyr::summarise(simTrade = sum(simTrade), .groups = "drop")
-
-            # Choose to keep or not the 'Other' category
-            if (!other_selection()) {
-                trade_data_plotting <- trade_data_plotting %>%
-                    dplyr::filter(Origin != "Other") %>%
-                    dplyr::filter(Destination != "Other")
-            }
-
-            # Visualize trade flows using a chord diagram
-            # Prepare matrix for chordDiagram
-            trade_matrix <- trade_data_plotting %>%
-                tidyr::pivot_wider(
-                    names_from = Destination,
-                    values_from = simTrade,
-                    # values_from = net,
-                    values_fill = 0
-                ) %>%
-                as.data.frame()
-
-            # Ensure unique row names
-            trade_matrix <- trade_matrix %>%
-                dplyr::group_by(Origin) %>%
-                dplyr::summarise(across(everything(), sum), .groups = "drop")
-
-            rownames_ls <- trade_matrix$Origin
-            trade_matrix <- trade_matrix[, -1]
-            trade_matrix <- as.matrix(trade_matrix)
-            dimnames(trade_matrix) <- list(
-                exporter = rownames_ls,
-                importer = rownames_ls
-            )
-
-            if (!net_exports()) trade_matrix <- netTrade(trade_matrix)
-            if (!self_selection()) diag(trade_matrix) <- 0
-
-            # Assign colors to regions, always mapping 'Other' to last color in palette
-            if (!other_selection()) {
-                n_regions <- length(region_levels) - 1
-                region_colors <- color_palette[seq_len(n_regions)]
-            } else {
-                n_regions <- length(region_levels)
-                region_colors <- color_palette[c(
-                    seq_len(n_regions),
-                    length(color_palette)
-                )]
-            }
-
-            # Plot chord diagram
-            chorddiag::chorddiag(trade_matrix, groupColors = region_colors)
         })
+
+        output$download_chord_png <- downloadHandler(
+            filename = function() {
+                paste0("chord_diagram_", Sys.Date(), ".png")
+            },
+            content = function(file) {
+                # Save the interactive chorddiag as a temporary HTML file
+                chord <- chord_flows(
+                    plotting_values = plotting_values(),
+                    focus_pool = focus_pool(),
+                    other_selection = other_selection(),
+                    net_exports = net_exports(),
+                    self_selection = self_selection()
+                )
+                temp_html <- tempfile(fileext = ".html")
+                htmlwidgets::saveWidget(chord, temp_html, selfcontained = FALSE)
+                # Use webshot2 to capture the widget as PNG, then add watermark
+                temp_png <- tempfile(fileext = ".png")
+                webshot2::webshot(
+                    temp_html,
+                    file = temp_png,
+                    vwidth = 900,
+                    vheight = 900,
+                    zoom = 2
+                )
+                # Add watermark using magick
+                img <- magick::image_read(temp_png)
+                img <- magick::image_annotate(
+                    img,
+                    text = "https://noejn2.github.io",
+                    gravity = "southwest",
+                    location = "+20+20",
+                    size = 28,
+                    color = "#888888"
+                )
+                magick::image_write(img, path = file, format = "png")
+            }
+        )
     })
 }
